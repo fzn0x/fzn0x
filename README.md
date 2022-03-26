@@ -1,16 +1,39 @@
-### Hi there 👋
+# fzn0x
 
-<!--
-**fzn0x/fzn0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name's Fauzan. I was always interested in open source inside out, especially in Javascript, Functional Programming, and Metaprogramming. My interest may be at the stage of implementing the ideology of altruism. I'm active on several github repositories discussions to help or give ideas.
 
-Here are some ideas to get you started:
+## Role
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineer\
+Bot Developer\
+Javascript Engineer
+
+## Organization
+
+| Workgroup                          | Description                       |
+| ---------------------------------- | --------------------------------- |
+| [@BlockchainSpace-Dev][blockchainspace] | Bot Developer | Core Team    |
+| [@sequelize][sequelize]            | Maintainer                        |
+| [@devoverid][devover]              | Founding Member                   |
+
+[blockchainspace]: https://github.com/BlockchainSpace-Dev
+[sequelize]: https://github.com/sequelize
+[devover]: https://github.com/devoverid
+
+## Contact
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.1]][1] ,[@gmail][email] and [telegram][telegram].
+
+[email]: mailto:fzn0x@pm.me
+[telegram]: https://t.me/fzn0x
+
+
+[1.1]: http://i.imgur.com/wWzX9uB.png
+<!-- [1.2]:  -->
+
+[1]: https://twitter.com/fzn0x
+<!-- [2]: -->
+
+Why documentation is important? read [this](https://www.indeed.com/career-advice/career-development/hr-documentation)
