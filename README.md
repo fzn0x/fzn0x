@@ -1,3 +1,5 @@
+[`I don't care whether I am an alpha man or a beta man or an omega man. But I am a man who is driven by passion and purpose. I am a man who does not follow the crowd.`](https://fzn0x.bearblog.dev/people-will-always-like-the-opposite-of-the-things-they-like-there-is-no-hate-just-opposite-like/)
+
 ```sh
 # import my gpg public key
 curl -s https://github.com/fzn0x.gpg | gpg --import
