@@ -1,5 +1,3 @@
-[`I don't care whether I am an alpha man or a beta man or an omega man. But I am a man who is driven by passion and purpose. I am a man who does not follow the crowd.`](https://fzn0x.bearblog.dev/people-will-always-like-the-opposite-of-the-things-they-like-there-is-no-hate-just-opposite-like/)
-
 ```sh
 # import my gpg public key
 curl -s https://github.com/fzn0x.gpg | gpg --import
@@ -9,11 +7,7 @@ curl https://github.com/fzn0x.keys | tee -a ~/.ssh/authorized_keys
 curl -i https://api.github.com/users/fzn0x/keys
 ```
 
-
-<details>
-  <summary> <b>Alert</b>: this one is might be too long but stores a lot of useful information that might be needed for OSINT.</summary><br/>
-
-Hi, my name's Fauzan. I was always interested in open source inside out, especially in Javascript, Functional Programming, and Metaprogramming. My interest may be at the stage of implementing the ideology of altruism. I'm active on several github repositories discussions to help or give ideas.
+Sharing is caring, an enthutiastic person on blockchain fields and web 3.0, sometimes interested to learn about metaprogramming and FP.
 
 ## Organization
 
@@ -38,6 +32,6 @@ You can contact me on [twitter][twitter], [email][email], [linkedin][linkedin] a
 [telegram]: https://t.me/fzn0x
 [twitter]: https://twitter.com/fzn0x
 
-Why documentation is important? read [this](https://www.indeed.com/career-advice/career-development/hr-documentation)
+---
 
-</details>
+Why documentation is important? read [this](https://www.indeed.com/career-advice/career-development/hr-documentation)
