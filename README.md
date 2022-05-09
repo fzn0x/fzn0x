@@ -35,3 +35,5 @@ You can contact me on [twitter][twitter], [email][email], [linkedin][linkedin] a
 ---
 
 Why documentation is important? read [this](https://www.indeed.com/career-advice/career-development/hr-documentation)
+
+Check my github resume! [https://resume.github.io/?fzn0x](https://resume.github.io/?fzn0x)
