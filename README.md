@@ -7,7 +7,7 @@ curl https://github.com/fzn0x.keys | tee -a ~/.ssh/authorized_keys
 curl -i https://api.github.com/users/fzn0x/keys
 ```
 
-Sharing is caring, an enthutiastic person on blockchain fields and web 3.0, sometimes interested to learn about metaprogramming and Functional Programming.
+Sharing is caring, an enthutiastic person on blockchain fields and web 3.0, sometimes interested to learn about metaprogramming and functional programming.
 
 ## Organization
 
