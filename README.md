@@ -1,39 +1,40 @@
+<p align="left"><b><samp>「</samp></b></p>
+  <p align="center">
+    <samp>
+      An algorithm without a proof<br>
+      is a conjecture, it's not a theorem.<br>
+    </samp>
+  </p>
+<p align="right"><b><samp>」</samp></b></p>
+
+<br>
+
+<details align="center">
+<summary> &#9655;</summary>
+
+<h2></h2><br>
+<p align="center">
+  <samp>
+    [<a href="https://twitter.com/fzn0x" target="_blank">twitter</a>]
+    [<a href="https://t.me/fzn0x" target="_blank">telegram</a>]
+    [<a href="https://www.linkedin.com/in/fzn0x/" target="_blank">linkedin</a>]
+    [<a href="mailto:fzn0x@pm.me" target="_blank">mail</a>]
+  </samp>
+</p>
+
+<h2></h2><br>
+
 ```sh
-# import my gpg public key
 curl -s https://github.com/fzn0x.gpg | gpg --import
-# give my SSH public key a permission to your server
+```
+
+```sh
 curl https://github.com/fzn0x.keys | tee -a ~/.ssh/authorized_keys
-# download my SSH public key with Github API
+```
+
+```sh
 curl -i https://api.github.com/users/fzn0x/keys
 ```
 
-Sharing is caring, an enthutiastic person on blockchain fields and web 3.0, sometimes interested to learn about metaprogramming and functional programming.
+</details>
 
-## Organization
-
-| Workgroup                          | Description                       |
-| ---------------------------------- | --------------------------------- |
-| [@BlockchainSpace-Dev][blockchainspace] | Bot Developer | Core Team    |
-| [@sequelize][sequelize]            | Maintainer                        |
-| [@devoverid][devover]              | Founding Member                   |
-
-[blockchainspace]: https://github.com/BlockchainSpace-Dev
-[sequelize]: https://github.com/sequelize
-[devover]: https://github.com/devoverid
-
-## Contact
-
-<!-- Actual text -->
-
-You can contact me on [twitter][twitter], [email][email], [linkedin][linkedin] and [telegram][telegram].
-
-[email]: mailto:fzn0x@pm.me
-[linkedin]: https://www.linkedin.com/in/fzn0x/
-[telegram]: https://t.me/fzn0x
-[twitter]: https://twitter.com/fzn0x
-
----
-
-Why documentation is important? read [this](https://www.indeed.com/career-advice/career-development/hr-documentation)
-
-Check my github resume! [https://resume.github.io/?fzn0x](https://resume.github.io/?fzn0x)
