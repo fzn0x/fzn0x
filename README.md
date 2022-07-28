@@ -1,7 +1,7 @@
 <p align="left"><b><samp>「</samp></b></p>
   <p align="center">
     <samp>
-      Power tends to corrupt, and absolute power corrupts absolutely.<br>
+      Sometimes, studying isn't always about planning and get what we want.<br>
     </samp>
   </p>
 <p align="right"><b><samp>」</samp></b></p>
