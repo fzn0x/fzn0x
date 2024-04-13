@@ -8,7 +8,7 @@ A person that has a lot of interests in tech especially in frontend, backend, da
 
 #### 📋 Current Activity
 - I’m focus on Frontend Development with Remix + tRPC + Chakra UI
-- I’m focus on Backend Development with Prisma + tRPC / RPC-like API client
+- I’m focus on Backend Development with Prisma + tRPC / RPC-like API client + Hono + Bun + TypeScript
 - I’m focus on Data Engineering ( Data Collecting -> Storage & Management -> Pipeline -> Transformation -> Repeat ) with BigQuery / MongoDB / SQLite / MySQL + Nodejs / Bun + TypeScript / JavaScript
 - I’m learning on Machine Learning with Python and Jupyter Notebook
 
