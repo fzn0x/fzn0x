@@ -12,3 +12,7 @@ A person that has a lot of interests in tech especially in frontend, backend, da
 - I’m focus on Data Engineering ( Data Collecting -> Storage & Management -> Pipeline -> Transformation -> Repeat ) with BigQuery / MongoDB / SQLite / MySQL + Nodejs / Bun + TypeScript / JavaScript
 - I’m learning on Machine Learning with Python and Jupyter Notebook
 
+#### 📋 My Learning Plans
+- System Programming with Golang and small portion of C
+- Low Level Programming with Rust
+
