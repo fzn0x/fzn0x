@@ -30,7 +30,7 @@ I love to write about what I've learned and share it to social apps, my friends,
 - [Two Simple Sorting Algorithms in JavaScript](https://fzn0x.xlog.app/sUr1wbhH_X5eh5GLimwJ_)
 - [Mengenal Lebih Jauh Tentang EcmaScript , TC39 , dan EcmaScript Proposal 🚀](https://dev.to/fzn0x/mengenal-lebih-jauh-tentang-ecmascript-tc39-dan-ecmascript-proposal-2130)
 - [Membuat Discord Webhooks Untuk Notifikasi Github Repository](https://dev.to/fzn0x/membuat-discord-webhooks-untuk-notifikasi-github-repository-1ch5)
-- [https://dev.to/fzn0x/test-driven-development-and-behaviour-driven-development-with-example-in-nodejs-and-javascript-bahasa-version-752](https://dev.to/fzn0x/test-driven-development-and-behaviour-driven-development-with-example-in-nodejs-and-javascript-bahasa-version-752)
+- [Test Driven Development and Behaviour Driven Development in NodeJS](https://dev.to/fzn0x/test-driven-development-and-behaviour-driven-development-with-example-in-nodejs-and-javascript-bahasa-version-752)
 
 #### Projects
 
