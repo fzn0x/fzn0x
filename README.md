@@ -21,7 +21,7 @@ Over my four years of remote work experience, I have held various roles, from Ba
 
 #### Open Source Activity
 
-I’m contributing in improvement or optimization in few popular open sources like Hono, Sequelize, Deno, Bun and Nodejs, mostly helping people through Repository Issues, Documentation, and Types.
+I’m contributing in improvement or optimization in few popular open sources like Hono, Prisma, Sequelize, Deno, Bun and Nodejs, mostly helping people through Repository Issues, Documentation, and Types.
 
 #### Writings
 
