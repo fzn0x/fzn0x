@@ -7,18 +7,6 @@
 
 My name is Fauzan, and I am a 21-year-old full-stack programmer from West Bandung, Indonesia. I have a wide range of interests in technology, including frontend, backend, database management, security, and more! ✨ Indeed, I am a full-stack developer!
 
-Over my four years of remote work experience, I have held various roles, from Backend Developer to Database Developer to Frontend Developer.
-
-#### 📋 Current Activity
-- I’m focus on Frontend Development with Remix + tRPC + Chakra UI
-- I’m focus on Backend Development with Prisma + tRPC / RPC-like API client + Hono + Bun + TypeScript
-- I’m focus on Data Engineering ( Data Collecting -> Storage & Management -> Pipeline -> Transformation -> Repeat ) with BigQuery / MongoDB / SQLite / MySQL + Nodejs / Bun + TypeScript / JavaScript
-- I’m learning on Machine Learning with Python and Jupyter Notebook
-
-#### 📋 My Learning Plans
-- System Programming with Golang and small portion of C
-- Low Level Programming with Rust
-
 #### Open Source Activity
 
 I’m contributing in improvement or optimization in few popular open sources like Hono, Prisma, Sequelize, Deno, Bun and Nodejs, mostly helping people through Repository Issues, Documentation, and Types.
@@ -38,6 +26,6 @@ I love to write about what I've learned and share it to social apps, my friends,
 - [hypf](https://github.com/fzn0x/hypf) - Minimal `fetch` wrapper, it's still working in progress and I like to explore more there.
 - [omura](https://github.com/fzn0x/omura) - I've launched my first open-source project using AST utilities. The idea came to me when I noticed many outdated and non-functional clients for running the Gemini Protocol. I built a simple CLI that mimics what a [kristal](https://github.com/MasterQ32/kristall) browser does, using AST for navigation. You can perform searches similar to using Google Search by entering the query in the CLI, it uses gemini://geminispace.info/search? in the Gemini Protocol.
 
-Know me more by my personal website: https://fzn0x.dev/ (WIP)
+Know me more by my personal website: https://fzn0x.dev/
 
 
