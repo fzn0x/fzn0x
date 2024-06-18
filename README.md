@@ -1,4 +1,4 @@
-### Hi there, I'm fzn0x 👋
+<img src="https://github.com/fzn0x/fzn0x/assets/50759463/2b54dbd1-4f29-4e02-ba82-b201d2e172e9" width="448">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fzn0x)
 [![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/fzn0x/)
