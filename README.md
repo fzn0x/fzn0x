@@ -28,6 +28,8 @@ I love to write about what I've learned and share it to social apps, my friends,
 - AnyConvert (https://anyconvert.fzn0x.rocks/) - I'm thinking to create a website where we can retrieve currencies and cryptocurrencies rates in one platform.
 - [hypf](https://github.com/fzn0x/hypf) - Minimal `fetch` wrapper, it's still working in progress and I like to explore more there.
 - [omura](https://github.com/fzn0x/omura) - I've launched my first open-source project using AST utilities. The idea came to me when I noticed many outdated and non-functional clients for running the Gemini Protocol. I built a simple CLI that mimics what a [kristal](https://github.com/MasterQ32/kristall) browser does, using AST for navigation. You can perform searches similar to using Google Search by entering the query in the CLI, it uses gemini://geminispace.info/search? in the Gemini Protocol.
+- [Landing Page with Next.js](https://github.com/fzn0x/baratayudha-eo) - It's live in https://www.baratayudha.com/
+- [React + Prisma + Hono Stack](https://aroundme.fzn0x.rocks/) - [Backend](https://github.com/fzn0x/62teknologi-backend-test-muhammad-fauzan) and [Frontend](https://github.com/fzn0x/62teknologi-frontend-test-muhammad-fauzan)
 
 </details>
 
