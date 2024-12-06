@@ -1,4 +1,4 @@
-About Me
+**About Me**\
 👋 Hi, I'm Muhammad Fauzan (fzn0x), a passionate developer specializing in building scalable, high-performance applications and tools for creators, gamers, and communities. I have a keen interest in modern web technologies, blockchain integration, and data-driven solutions.\
 \
 Expertise\
