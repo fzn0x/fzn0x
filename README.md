@@ -1,16 +1,24 @@
-## Hi there 👋
+About Me
+👋 Hi, I'm Muhammad Fauzan (fzn0x), a passionate developer specializing in building scalable, high-performance applications and tools for creators, gamers, and communities. I have a keen interest in modern web technologies, blockchain integration, and data-driven solutions.
 
-<!--
-**fzn0x/fzn0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Expertise
+🚀 Frontend: React.js, Svelte, Chakra UI, SCSS
+⚙️ Backend: Node.js, Hono.js, Laravel
+📊 Data: BigQuery, MongoDB, PostgreSQL
+☁️ Cloud: AWS, GCP, Terraform
 
-Here are some ideas to get you started:
+What I Do
+Crafting dynamic web apps and tools for the creator economy 🌟
+Developing blockchain-integrated features and data pipelines ⛓️
+Streamlining data workflows with ETL processes and BI insights 📈
+Contributing to open-source projects and tech communities 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Notable Projects
+YEY.tech: Tools and integrations for BlockchainSpace creator ecosystem.
+We3: NFT Reward System: FIBA Basketball World Cup 2023 in partnership with Smart Philippines.
+Data Scrappers: Scalable blockchain scrapers handling millions of transactions.
+
+
+🌐 Portfolio: [fzn0x.dev](https://fzn0x.dev/)
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/fzn0x/)
+
