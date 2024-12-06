@@ -20,5 +20,5 @@ Data Scrappers: Scalable blockchain scrapers handling millions of transactions.\
 \
 \
 🌐 Portfolio: [fzn0x.dev](https://fzn0x.dev/)\
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/fzn0x/)\
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/fzn0x/)
 
