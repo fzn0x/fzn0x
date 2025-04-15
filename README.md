@@ -19,4 +19,4 @@ We3: NFT Reward System: FIBA Basketball World Cup 2023 in partnership with Smart
 Data Scrappers: Scalable blockchain scrapers handling millions of transactions.\
 \
 \
-🌐 Portfolio: [fzn0x.dev](https://fzn0x.dev/)\
+🌐 Portfolio: [fzn0x.dev](https://fzn0x.dev/)
