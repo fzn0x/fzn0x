@@ -14,8 +14,8 @@ Streamlining data workflows with ETL processes and BI insights 📈\
 Contributing to open-source projects and tech communities 💻\
 \
 Notable Projects\
-YEY.tech: Tools and integrations for BlockchainSpace creator ecosystem.\
-We3: NFT Reward System: FIBA Basketball World Cup 2023 in partnership with Smart Philippines.\
+[YEY.tech](https://app.yey.tech/): Tools and integrations for BlockchainSpace creator ecosystem.\
+[We3](https://qr.we-3.io/): NFT Reward System: FIBA Basketball World Cup 2023 in partnership with Smart Philippines.\
 Data Scrappers: Scalable blockchain scrapers handling millions of transactions.\
 \
 \
