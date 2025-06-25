@@ -1,6 +1,8 @@
 **About Me**\
 👋 Hi, I'm Muhammad Fauzan (fzn0x), a passionate developer specializing in building scalable, high-performance applications and tools for creators, gamers, and communities. I have a keen interest in modern web technologies, blockchain integration, and data-driven solutions.\
 \
+Open source contributor of Hono, Sequelize, and more.\
+\
 Expertise\
 🚀 Frontend: React.js, Svelte, Chakra UI, SCSS\
 ⚙️ Backend: Node.js, Hono.js, Laravel\
