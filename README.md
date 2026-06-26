@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+I'm+fzn0x%2C+fullstack+developer+;and+agentic+%26+blockchain+systems+architect" width="65%" />
 <br><br>
 <pre>
-    💼 Fullstack Dev @ Catalyst Ventures • Fullstack dev • AI Engineer
+    💼 Fullstack Web Developer
     💻 System Programming Languages • DevOps 
     📖 Technology Infratructure • Agentic Systems
     🎮 Blockchain • Loopstation • Code • Games
