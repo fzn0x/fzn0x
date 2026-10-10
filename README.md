@@ -14,7 +14,7 @@
 
 # Contributions
 
-•	Contributed 18+ merged PRs to Hono (modern TypeScript web framework) — improving internal utilities and type safety. https://github.com/honojs/hono/commits?author=fzn0x \
+•	Contributed 18+ merged PRs to Hono (modern TypeScript web framework) - improving internal utilities and type safety. https://github.com/honojs/hono/commits?author=fzn0x \
 •	Contributed 7+ merged PRs to Sequelize (widely-used Node.js ORM with 1,000+ contributors). https://github.com/sequelize/sequelize/commits?author=fzn0x \
-•	Contributed to Faker.js — a popular JavaScript data generation library used by millions of developers. https://github.com/faker-js/faker/commits?author=fzn0x \
+•	Contributed to Faker.js - a popular JavaScript data generation library used by millions of developers. https://github.com/faker-js/faker/commits?author=fzn0x \
 •	25+ total merged PRs across multiple high-impact JavaScript/TypeScript repositories. https://github.com/fzn0x 
