@@ -70,6 +70,12 @@
 </tr>
 </table>
 
+### Honorable Mentions
+
+- Mentioned in [Bun v1.1.7](https://github.com/oven-sh/bun) for providing useful report: https://bun.com/blog/bun-v1.1.7
+
+<img width="775" height="868" alt="image" src="https://github.com/user-attachments/assets/a5d8cf53-d100-41a3-93f3-82c98f58a953" />
+
 ### Other Contributions
 
 | Repository | Stars | What I shipped | PRs | Year |
