@@ -70,7 +70,7 @@
 </tr>
 </table>
 
-### Also merged into
+### Other Contributions
 
 | Repository | Stars | What I shipped | PRs | Year |
 | :--- | :---: | :--- | :---: | :---: |
