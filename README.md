@@ -3,29 +3,29 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+I'm+fzn0x%2C+fullstack+developer+;and+agentic+%26+blockchain+systems+architect;founder+of+Midori+Research" width="65%" />
 <br><br>
 <pre>
-    💼 Fullstack Web Developer
-    💻 System Programming Languages • DevOps
-    📖 Technology Infrastructure • Agentic Systems
-    🎮 Blockchain • Loopstation • Code • Games
+    Fullstack Web Developer
+    System Programming Languages • DevOps
+    Technology Infrastructure • Agentic Systems
+    Blockchain • Loopstation • Code • Games
 </pre>
 <br>
 <img height="40" alt="image" src="https://github.com/user-attachments/assets/1a4af1cc-6dd0-4db6-8112-a9f4d4b09418" />
 <br><br>
 
 <a href="https://www.midoriresearch.com/"><img src="https://img.shields.io/badge/midoriresearch.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://github.com/fzn0x?tab=followers"><img src="https://img.shields.io/github/followers/fzn0x?style=for-the-badge&logo=github&label=followers&color=0D1117" alt="Followers" /></a>
-<a href="https://github.com/fzn0x?tab=repositories"><img src="https://img.shields.io/github/stars/fzn0x?style=for-the-badge&logo=github&label=stars&color=0D1117" alt="Stars" /></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged+-user%3Afzn0x"><img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3Afzn0x%20is%3Amerged%20-user%3Afzn0x&style=for-the-badge&logo=git&logoColor=white&label=merged%20PRs&color=0D1117" alt="Merged PRs" /></a>
+<a href="https://github.com/fzn0x?tab=followers"><img src="https://img.shields.io/badge/followers-614-0D1117?style=for-the-badge&logo=github" alt="Followers" /></a>
+<a href="https://github.com/fzn0x?tab=repositories"><img src="https://img.shields.io/badge/stars-392-0D1117?style=for-the-badge&logo=github" alt="Stars" /></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged+-user%3Afzn0x"><img src="https://img.shields.io/badge/merged_PRs-182-0D1117?style=for-the-badge&logo=git&logoColor=white" alt="Merged PRs" /></a>
 <img src="https://komarev.com/ghpvc/?username=fzn0x&style=for-the-badge&color=0D1117&label=profile+views" alt="Profile views" />
 </div>
 
 <br>
 
-## 🌍 Open Source Contributions · 2019 → 2026
+## Open Source Contributions · 2019 → 2026
 
 <div align="center">
 
-| 🔀 Merged PRs | 📦 Public repos | 🏢 Orgs & maintainers | ⭐ Combined stars |
+| Merged PRs | Public repos | Orgs & maintainers | Combined stars |
 | :---: | :---: | :---: | :---: |
 | **182** | **71** | **54** | **765k+** |
 
@@ -33,7 +33,7 @@
 
 </div>
 
-### 🏆 Featured
+### Featured
 
 <table>
 <tr>
@@ -90,53 +90,53 @@
 </tr>
 </table>
 
-### 🚀 Also merged into
+### Also merged into
 
 | Repository | Stars | What I shipped | PRs | Year |
 | :--- | :---: | :--- | :---: | :---: |
-| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 196.7k | Indonesian translation improvements | 1 | 2022 |
-| [denoland/deno](https://github.com/denoland/deno/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 108.7k | Reworked the built-in utilities section of the README | 1 | 2021 |
-| [oven-sh/bun](https://github.com/oven-sh/bun/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 96.3k | `bun:sqlite` docs fix for `.run()` | 1 | 2024 |
-| [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 65.3k | `id-ID` translation fixes | 1 | 2020 |
-| [jestjs/jest](https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 45.5k | Docs: using Jest with Vite | 1 | 2022 |
-| [gofiber/fiber](https://github.com/gofiber/fiber/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 40.2k | Indonesian README tweaks and translation fixes | 2 | 2022 |
-| [remy/nodemon](https://github.com/remy/nodemon/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 26.7k | Installation docs improvements | 1 | 2021 |
-| [web3/web3.js](https://github.com/web3/web3.js/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 19.9k | Synced the web3.php link in the other-languages docs | 1 | 2022 |
-| [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 18.8k | Guide fixes | 1 | 2021 |
-| [npm/cli](https://github.com/npm/cli/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 10.2k | Clearer environment guidance in the bug-report template | 1 | 2022 |
-| [ai/easings.net](https://github.com/ai/easings.net/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 8.7k | Indonesian translation fixes | 1 | 2021 |
-| [markdoc/markdoc](https://github.com/markdoc/markdoc/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 8.5k | Link `title` attribute in the parser, better error messages, strict-equality refactor | 3 | 2022 |
-| [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 6.5k | README typo and path fixes | 1 | 2025 |
-| [nuxt/awesome](https://github.com/nuxt/awesome/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 5.5k | Listed the `nuxt-web3` community module | 1 | 2021 |
-| [stisla/stisla](https://github.com/stisla/stisla/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 3.8k | Project cleanup | 1 | 2022 |
-| [cacjs/cac](https://github.com/cacjs/cac/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 3.1k | Fixed the SAO docs URL | 1 | 2021 |
-| [zuramai/mazer](https://github.com/zuramai/mazer/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 3.1k | File Uploader component, sidebar submenu fix, dark-mode flicker fix, mobile overflow fix, EN + ID docs | 11 | 2021–2022 |
-| [sergiodxa/remix-auth](https://github.com/sergiodxa/remix-auth/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 2.2k | JSDoc moved to `LoaderFunctionArgs` / `ActionFunctionArgs` | 2 | 2024 |
-| [eveningkid/denodb](https://github.com/eveningkid/denodb/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 1.9k | Replaced a deprecated `deno.land/x/color` import | 1 | 2020 |
-| [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 1.6k | Added omura to the list | 1 | 2024 |
-| [plhery/node-twitter-api-v2](https://github.com/plhery/node-twitter-api-v2/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 1.6k | Added the `connection_status` user field | 1 | 2024 |
-| [fly-apps/live_beats](https://github.com/fly-apps/live_beats/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 1.4k | Fixed the profile link target (Elixir / Phoenix LiveView) | 1 | 2022 |
-| [prisma/web](https://github.com/prisma/web/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 1.1k | Docs: Sequelize comparison for cursor pagination | 1 | 2022 |
-| [nuxt/modules](https://github.com/nuxt/modules/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 1.1k | Added and maintained the `nuxt-web3` module entry | 2 | 2021–2022 |
-| [RioChndr/jaksel-language](https://github.com/RioChndr/jaksel-language/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 960 | New keywords: `worth it` (true) and `seriously` (const) | 2 | 2022 |
-| [matter-labs/zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 959 | Added the missing MetaMask add-network step | 1 | 2023 |
-| [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 946 | Docs typo fix | 1 | 2022 |
-| [denoland/dotland](https://github.com/denoland/dotland/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 946 | Published Denovel, my Laravel-inspired Deno framework, to `deno.land/x` | 1 | 2020 |
-| [okhosting/awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 775 | Listed Watchtower | 1 | 2026 |
-| [kawalcovid19/wargabantuwarga.com](https://github.com/kawalcovid19/wargabantuwarga.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 559 | COVID-19 civic info site: open-map button, province search, kebab-case fix, setup docs | 4 | 2021 |
-| [reactjs/id.react.dev](https://github.com/reactjs/id.react.dev/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | ★ 327 | Indonesian translation fixes for the official React docs | 1 | 2023 |
+| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 196.7k | Indonesian translation improvements | 1 | 2022 |
+| [denoland/deno](https://github.com/denoland/deno/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 108.7k | Reworked the built-in utilities section of the README | 1 | 2021 |
+| [oven-sh/bun](https://github.com/oven-sh/bun/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 96.3k | `bun:sqlite` docs fix for `.run()` | 1 | 2024 |
+| [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 65.3k | `id-ID` translation fixes | 1 | 2020 |
+| [jestjs/jest](https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 45.5k | Docs: using Jest with Vite | 1 | 2022 |
+| [gofiber/fiber](https://github.com/gofiber/fiber/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 40.2k | Indonesian README tweaks and translation fixes | 2 | 2022 |
+| [remy/nodemon](https://github.com/remy/nodemon/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 26.7k | Installation docs improvements | 1 | 2021 |
+| [web3/web3.js](https://github.com/web3/web3.js/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 19.9k | Synced the web3.php link in the other-languages docs | 1 | 2022 |
+| [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 18.8k | Guide fixes | 1 | 2021 |
+| [npm/cli](https://github.com/npm/cli/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 10.2k | Clearer environment guidance in the bug-report template | 1 | 2022 |
+| [ai/easings.net](https://github.com/ai/easings.net/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 8.7k | Indonesian translation fixes | 1 | 2021 |
+| [markdoc/markdoc](https://github.com/markdoc/markdoc/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 8.5k | Link `title` attribute in the parser, better error messages, strict-equality refactor | 3 | 2022 |
+| [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 6.5k | README typo and path fixes | 1 | 2025 |
+| [nuxt/awesome](https://github.com/nuxt/awesome/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 5.5k | Listed the `nuxt-web3` community module | 1 | 2021 |
+| [stisla/stisla](https://github.com/stisla/stisla/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 3.8k | Project cleanup | 1 | 2022 |
+| [cacjs/cac](https://github.com/cacjs/cac/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 3.1k | Fixed the SAO docs URL | 1 | 2021 |
+| [zuramai/mazer](https://github.com/zuramai/mazer/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 3.1k | File Uploader component, sidebar submenu fix, dark-mode flicker fix, mobile overflow fix, EN + ID docs | 11 | 2021–2022 |
+| [sergiodxa/remix-auth](https://github.com/sergiodxa/remix-auth/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 2.2k | JSDoc moved to `LoaderFunctionArgs` / `ActionFunctionArgs` | 2 | 2024 |
+| [eveningkid/denodb](https://github.com/eveningkid/denodb/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.9k | Replaced a deprecated `deno.land/x/color` import | 1 | 2020 |
+| [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.6k | Added omura to the list | 1 | 2024 |
+| [plhery/node-twitter-api-v2](https://github.com/plhery/node-twitter-api-v2/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.6k | Added the `connection_status` user field | 1 | 2024 |
+| [fly-apps/live_beats](https://github.com/fly-apps/live_beats/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.4k | Fixed the profile link target (Elixir / Phoenix LiveView) | 1 | 2022 |
+| [prisma/web](https://github.com/prisma/web/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.1k | Docs: Sequelize comparison for cursor pagination | 1 | 2022 |
+| [nuxt/modules](https://github.com/nuxt/modules/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.1k | Added and maintained the `nuxt-web3` module entry | 2 | 2021–2022 |
+| [RioChndr/jaksel-language](https://github.com/RioChndr/jaksel-language/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 960 | New keywords: `worth it` (true) and `seriously` (const) | 2 | 2022 |
+| [matter-labs/zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 959 | Added the missing MetaMask add-network step | 1 | 2023 |
+| [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 946 | Docs typo fix | 1 | 2022 |
+| [denoland/dotland](https://github.com/denoland/dotland/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 946 | Published Denovel, my Laravel-inspired Deno framework, to `deno.land/x` | 1 | 2020 |
+| [okhosting/awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 775 | Listed Watchtower | 1 | 2026 |
+| [kawalcovid19/wargabantuwarga.com](https://github.com/kawalcovid19/wargabantuwarga.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 559 | COVID-19 civic info site: open-map button, province search, kebab-case fix, setup docs | 4 | 2021 |
+| [reactjs/id.react.dev](https://github.com/reactjs/id.react.dev/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 327 | Indonesian translation fixes for the official React docs | 1 | 2023 |
 
 <sub>Star counts as of October 2026.</sub>
 
 <details>
-<summary><b>➕ 34 more repositories</b> (54 PRs): Indonesian dev community, admin templates, Go & Deno libraries, bots and tooling</summary>
+<summary><b>34 more repositories</b> (54 PRs): Indonesian dev community, admin templates, Go & Deno libraries, bots and tooling</summary>
 <br>
 
 [zuramai/starback.js](https://github.com/zuramai/starback.js/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [thank-you-php/thank-you-php](https://github.com/thank-you-php/thank-you-php/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [wandercn/hotbuild](https://github.com/wandercn/hotbuild/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [buddypond/buddypond](https://github.com/buddypond/buddypond/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [bxpana/zkSync-Tips](https://github.com/bxpana/zkSync-Tips/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [ii64/gouring](https://github.com/ii64/gouring/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [kodingdotninja/chakra-icons](https://github.com/kodingdotninja/chakra-icons/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) <sup>×2</sup> · [zuramai/refactoring](https://github.com/zuramai/refactoring/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [satyawikananda/cardivo](https://github.com/satyawikananda/cardivo/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [zuramai/nuxewind](https://github.com/zuramai/nuxewind/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) <sup>×2</sup> · [ammarfaizi2/KlikBCA](https://github.com/ammarfaizi2/KlikBCA/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [fachryansyah/react-mazer-ui](https://github.com/fachryansyah/react-mazer-ui/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [nyancodeid/quotes](https://github.com/nyancodeid/quotes/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) <sup>×2</sup> · [gungunfebrianza/Visual-Hashing](https://github.com/gungunfebrianza/Visual-Hashing/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [satyawikananda/anitop](https://github.com/satyawikananda/anitop/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [gianlucaparadise/telegraf-calendar-telegram](https://github.com/gianlucaparadise/telegraf-calendar-telegram/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [satyawikananda/awesome-music-playlist](https://github.com/satyawikananda/awesome-music-playlist/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) <sup>×2</sup> · [2pai/instastory-monitor-telegram](https://github.com/2pai/instastory-monitor-telegram/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) <sup>×2</sup> · [zuramai/sekul](https://github.com/zuramai/sekul/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) <sup>×5</sup> · [michael-act/Senginta.py](https://github.com/michael-act/Senginta.py/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [defrindr/brainly-scraper](https://github.com/defrindr/brainly-scraper/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [zuramai/chessplay](https://github.com/zuramai/chessplay/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) <sup>×4</sup> · [alfianandinugraha/create-react-typescript-app](https://github.com/alfianandinugraha/create-react-typescript-app/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [emsifa/laci-db](https://github.com/emsifa/laci-db/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [ii64/go-binder](https://github.com/ii64/go-binder/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [wibu-gaptek/go-oppai](https://github.com/wibu-gaptek/go-oppai/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [zuramai/doorprize-winner](https://github.com/zuramai/doorprize-winner/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [zuramai/gradient-picker](https://github.com/zuramai/gradient-picker/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [zuramai/countdown.js](https://github.com/zuramai/countdown.js/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [fachryansyah/taklif](https://github.com/fachryansyah/taklif/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [viandwi24/klasse-io-client](https://github.com/viandwi24/klasse-io-client/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) · [anakmagang/anakmagang](https://github.com/anakmagang/anakmagang/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) <sup>×4</sup> · [playriglabs/veln](https://github.com/playriglabs/veln/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) <sup>×5</sup> · [rantaudev/crud-node-js-basic](https://github.com/rantaudev/crud-node-js-basic/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) <sup>×2</sup>
 
 </details>
 
-### 📅 Timeline
+### Timeline
 
 | Year | Merged PRs | | Highlights |
 | :---: | ---: | :--- | :--- |
@@ -151,66 +151,66 @@
 
 <br>
 
-## 🧪 My Projects
+## My Projects
 
 All public and open source. Descriptions are straight from each repo.
 
-### 🤖 AI, Agents & Security
+### AI, Agents & Security
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[watchtower](https://github.com/fzn0x/watchtower)**<br>![](https://img.shields.io/github/stars/fzn0x/watchtower?style=flat-square&label=%E2%98%85&color=f5c518) | Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate useful pentest reports for your websites. | `Python` `LangGraph` `LangChain` `LiteLLM` `ChromaDB` `Pydantic` `SQLAlchemy` `Docker` · Claude, OpenAI, Gemini, Ollama, OpenRouter · 23 tools incl. `nmap` `nuclei` `sqlmap` `ffuf` |
-| **[yolali](https://github.com/fzn0x/yolali)**<br>![](https://img.shields.io/github/stars/fzn0x/yolali?style=flat-square&label=%E2%98%85&color=f5c518)<br>[📖 docs](https://fzn0x.github.io/yolali) | A YOLO you can actually read: clean-room, NMS-free, fully typed PyTorch object detection (Apache-2.0) | `Python` `PyTorch` `torchvision` `OpenCV` `ONNX Runtime` `DINOv2 (timm)` `uv` `Ruff` `Pyright` `MkDocs Material` |
-| **[transformer](https://github.com/fzn0x/transformer)**<br>![](https://img.shields.io/github/stars/fzn0x/transformer?style=flat-square&label=%E2%98%85&color=f5c518) | Transformer architecture in Node.js, foundation to modern AI models. | `JavaScript` `Node.js` · built from scratch on typed arrays, no ML frameworks |
+| **[watchtower](https://github.com/fzn0x/watchtower)**<br>![stars](https://img.shields.io/badge/stars-217-f5c518?style=flat-square&logo=github) | Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate useful pentest reports for your websites. | `Python` `LangGraph` `LangChain` `LiteLLM` `ChromaDB` `Pydantic` `SQLAlchemy` `Docker` · Claude, OpenAI, Gemini, Ollama, OpenRouter · 23 tools incl. `nmap` `nuclei` `sqlmap` `ffuf` |
+| **[yolali](https://github.com/fzn0x/yolali)**<br>[Docs](https://fzn0x.github.io/yolali) | A YOLO you can actually read: clean-room, NMS-free, fully typed PyTorch object detection (Apache-2.0) | `Python` `PyTorch` `torchvision` `OpenCV` `ONNX Runtime` `DINOv2 (timm)` `uv` `Ruff` `Pyright` `MkDocs Material` |
+| **[transformer](https://github.com/fzn0x/transformer)**<br>![stars](https://img.shields.io/badge/stars-3-f5c518?style=flat-square&logo=github) | Transformer architecture in Node.js, foundation to modern AI models. | `JavaScript` `Node.js` · built from scratch on typed arrays, no ML frameworks |
 
-### 📈 Finance & Banking
-
-| Project | Description | Built with |
-| :--- | :--- | :--- |
-| **[idx](https://github.com/fzn0x/idx)**<br>![](https://img.shields.io/github/stars/fzn0x/idx?style=flat-square&label=%E2%98%85&color=f5c518)<br>[🔗 live](https://ihsg.midoriresearch.com) | Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
-| **[core-banking-system](https://github.com/fzn0x/core-banking-system)**<br>![](https://img.shields.io/github/stars/fzn0x/core-banking-system?style=flat-square&label=%E2%98%85&color=f5c518) | This is a demonstration of a simplified Core Banking System implemented in COBOL. | `COBOL` `GnuCOBOL` · copybooks, file-based account records, transaction and report programs |
-
-### 🛠️ Developer Tools
+### Finance & Banking
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[getman](https://github.com/fzn0x/getman)**<br>![](https://img.shields.io/github/stars/fzn0x/getman?style=flat-square&label=%E2%98%85&color=f5c518)<br>[🔗 site](https://fzn0x.github.io/getman/) | Getman, Alternative to Postman. A local-first, open-source API client. Requests are YAML files in your repo; browser UI, terminal UI and CI runner in one binary. No account, no cloud. | `Rust` `Tokio` `Axum` `Ratatui` `crossterm` `reqwest` `rquickjs` `rust-embed` · `Svelte 5` `TypeScript` `Vite` `Vitest` |
-| **[galley](https://github.com/fzn0x/galley)**<br>![](https://img.shields.io/github/stars/fzn0x/galley?style=flat-square&label=%E2%98%85&color=f5c518)<br>[🔗 live](https://fzn0x.github.io/galley/) | Markdown in, LaTeX that compiles. Converts Markdown to clean LaTeX with typesetter's defaults for ellipses, quotes, abbreviations and special characters, and shows every change it makes. A static, dependency-free browser tool. | `JavaScript` `HTML` `CSS` `node:test` `GitHub Pages` · zero dependencies |
-| **[clojure-map-formatter](https://github.com/fzn0x/clojure-map-formatter)**<br>![](https://img.shields.io/github/stars/fzn0x/clojure-map-formatter?style=flat-square&label=%E2%98%85&color=f5c518)<br>[🔗 live](https://fzn0x.github.io/clojure-map-formatter/) | Format and beautify Clojure maps and EDN with aligned indentation, or minify them for production. A static, dependency-free browser playground. | `JavaScript` `HTML` `CSS` `node:test` `GitHub Pages` · zero dependencies |
+| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-83-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
+| **[core-banking-system](https://github.com/fzn0x/core-banking-system)**<br>![stars](https://img.shields.io/badge/stars-18-f5c518?style=flat-square&logo=github) | This is a demonstration of a simplified Core Banking System implemented in COBOL. | `COBOL` `GnuCOBOL` · copybooks, file-based account records, transaction and report programs |
 
-### 🎨 Apps
-
-| Project | Description | Built with |
-| :--- | :--- | :--- |
-| **[jumpman](https://github.com/fzn0x/jumpman)**<br>![](https://img.shields.io/github/stars/fzn0x/jumpman?style=flat-square&label=%E2%98%85&color=f5c518)<br>[🔗 live](https://fzn0x.github.io/jumpman/) | Edit multiple photos at once. Open-source, offline-first batch photo editor for web & Android: global edits, layers, LUTs, Lightroom XMP, auto-match, smart selection, presets. | `React` `TypeScript` `Vite` `Tailwind CSS` `WebGL2` `Zustand` `Capacitor (Android)` `PWA / Workbox` `Astro` `pnpm workspaces` `Biome` `Playwright` |
-| **[verisign](https://github.com/fzn0x/verisign)**<br>![](https://img.shields.io/github/stars/fzn0x/verisign?style=flat-square&label=%E2%98%85&color=f5c518)<br>[🔗 live](https://verisign.midoriresearch.com/) | Self-hosted PDF signing with QR verification and SHA-512 integrity checks, on Cloudflare Workers and D1 | `Go` (workers-go) on `Cloudflare Workers` + `D1` · `React` `React Router` `TanStack Query` `Zustand` `pdf-lib` `pdf.js` `Vite` `Wrangler` |
-| **[doksli](https://github.com/fzn0x/doksli)**<br>![](https://img.shields.io/github/stars/fzn0x/doksli?style=flat-square&label=%E2%98%85&color=f5c518)<br>[🔗 live](https://doksli-ten.vercel.app) | Paste a tweet link, keep it as an image. Real tweets only, rendered from X and exported as PNG. Vite + React + Biome. | `React 19` `TypeScript` `Vite` `Biome` `modern-screenshot` `Vercel` |
-
-### ⚙️ Systems, Compilers & Emulation
+### Developer Tools
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[jawascript](https://github.com/fzn0x/jawascript)**<br>![](https://img.shields.io/github/stars/fzn0x/jawascript?style=flat-square&label=%E2%98%85&color=f5c518)<br>[🔗 site](https://fzn0x.github.io/jawascript/) | JawaScript: a compiled programming language with Javanese keywords. Rust frontend, a custom MLIR dialect lowered to LLVM, and a Boehm GC runtime. | `Rust` `C++17` `C` `MLIR` `LLVM` `TableGen` `CMake` `Boehm GC` |
-| **[redix](https://github.com/fzn0x/redix)**<br>![](https://img.shields.io/github/stars/fzn0x/redix?style=flat-square&label=%E2%98%85&color=f5c518) | Redix is a simplified, mini and lightweight version of Redis built in Rust. For minimal apps only. | `Rust` `Tokio` `DashMap` `bincode` `clap` `rustyline` |
-| **[midway-racer](https://github.com/fzn0x/midway-racer)**<br>![](https://img.shields.io/github/stars/fzn0x/midway-racer?style=flat-square&label=%E2%98%85&color=f5c518)<br>[🎮 play](https://fzn0x.github.io/midway-racer/) | Cycle-accurate Intel 8080 emulator for Midway's Laguna Racer and 280-ZZZAP arcade racers, written in Rust | `Rust` `WebAssembly` `wasm-bindgen` `cpal` `gilrs` `minifb` · `TypeScript` `Vite` |
-| **[nat-simulation](https://github.com/fzn0x/nat-simulation)**<br>![](https://img.shields.io/github/stars/fzn0x/nat-simulation?style=flat-square&label=%E2%98%85&color=f5c518) | Learn how NAT masquerading (iptables MASQUERADE) works with three small Go programs: a client, a router and a server. No root, no real firewall. | `Go` · standard library only |
+| **[getman](https://github.com/fzn0x/getman)**<br>![stars](https://img.shields.io/badge/stars-15-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/getman/) | Getman, Alternative to Postman. A local-first, open-source API client. Requests are YAML files in your repo; browser UI, terminal UI and CI runner in one binary. No account, no cloud. | `Rust` `Tokio` `Axum` `Ratatui` `crossterm` `reqwest` `rquickjs` `rust-embed` · `Svelte 5` `TypeScript` `Vite` `Vitest` |
+| **[galley](https://github.com/fzn0x/galley)**<br>![stars](https://img.shields.io/badge/stars-6-f5c518?style=flat-square&logo=github)<br>[Live demo](https://fzn0x.github.io/galley/) | Markdown in, LaTeX that compiles. Converts Markdown to clean LaTeX with typesetter's defaults for ellipses, quotes, abbreviations and special characters, and shows every change it makes. A static, dependency-free browser tool. | `JavaScript` `HTML` `CSS` `node:test` `GitHub Pages` · zero dependencies |
+| **[clojure-map-formatter](https://github.com/fzn0x/clojure-map-formatter)**<br>[Live demo](https://fzn0x.github.io/clojure-map-formatter/) | Format and beautify Clojure maps and EDN with aligned indentation, or minify them for production. A static, dependency-free browser playground. | `JavaScript` `HTML` `CSS` `node:test` `GitHub Pages` · zero dependencies |
 
-### 🔌 Hardware & IoT
-
-| Project | Description | Built with |
-| :--- | :--- | :--- |
-| **[tapwave](https://github.com/fzn0x/tapwave)**<br>![](https://img.shields.io/github/stars/fzn0x/tapwave?style=flat-square&label=%E2%98%85&color=f5c518) | ESP32 firmware for NFC cards: a music box, a Home Assistant tag reader and a tag writer in one binary | `C++23` `ESP32` `Arduino` `PlatformIO` `NimBLE` `ArduinoJson` `MQTT` `Home Assistant` `LittleFS` · PN532 / RC522 readers |
-
-### ⛓️ Web3 & Agentic Payments
+### Apps
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[x402sdk](https://github.com/fzn0x/x402sdk)**<br>![](https://img.shields.io/github/stars/fzn0x/x402sdk?style=flat-square&label=%E2%98%85&color=f5c518)<br>[📦 npm](https://www.npmjs.com/package/x402unified) | A unified SDK around the https://www.x402.org/ ecosystem, Integrate X402 with ease, easier adoption. (By contributor of Hono) | `TypeScript` `@x402/core` `@x402/evm` `@x402/hono` `@x402/paywall` `viem` `Hono` `Express` `tsup` `Vitest` |
-| **[8004sdk](https://github.com/fzn0x/8004sdk)**<br>![](https://img.shields.io/github/stars/fzn0x/8004sdk?style=flat-square&label=%E2%98%85&color=f5c518)<br>[📜 EIP-8004](https://eips.ethereum.org/EIPS/eip-8004) | A robust, developer-friendly TypeScript SDK for generating and registering ERC-8004 compliant agent identities. Seamlessly interact with 8004 registries and inject AgentCard metadata into modern web frameworks. | `TypeScript` `viem` `Hono` + `Express` adapters `tsup` `Vitest` · `ERC-8004` |
+| **[jumpman](https://github.com/fzn0x/jumpman)**<br>[Live demo](https://fzn0x.github.io/jumpman/) | Edit multiple photos at once. Open-source, offline-first batch photo editor for web & Android: global edits, layers, LUTs, Lightroom XMP, auto-match, smart selection, presets. | `React` `TypeScript` `Vite` `Tailwind CSS` `WebGL2` `Zustand` `Capacitor (Android)` `PWA / Workbox` `Astro` `pnpm workspaces` `Biome` `Playwright` |
+| **[verisign](https://github.com/fzn0x/verisign)**<br>[Live demo](https://verisign.midoriresearch.com/) | Self-hosted PDF signing with QR verification and SHA-512 integrity checks, on Cloudflare Workers and D1 | `Go` (workers-go) on `Cloudflare Workers` + `D1` · `React` `React Router` `TanStack Query` `Zustand` `pdf-lib` `pdf.js` `Vite` `Wrangler` |
+| **[doksli](https://github.com/fzn0x/doksli)**<br>[Live demo](https://doksli-ten.vercel.app) | Paste a tweet link, keep it as an image. Real tweets only, rendered from X and exported as PNG. Vite + React + Biome. | `React 19` `TypeScript` `Vite` `Biome` `modern-screenshot` `Vercel` |
+
+### Systems, Compilers & Emulation
+
+| Project | Description | Built with |
+| :--- | :--- | :--- |
+| **[jawascript](https://github.com/fzn0x/jawascript)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/jawascript/) | JawaScript: a compiled programming language with Javanese keywords. Rust frontend, a custom MLIR dialect lowered to LLVM, and a Boehm GC runtime. | `Rust` `C++17` `C` `MLIR` `LLVM` `TableGen` `CMake` `Boehm GC` |
+| **[redix](https://github.com/fzn0x/redix)**<br>![stars](https://img.shields.io/badge/stars-4-f5c518?style=flat-square&logo=github) | Redix is a simplified, mini and lightweight version of Redis built in Rust. For minimal apps only. | `Rust` `Tokio` `DashMap` `bincode` `clap` `rustyline` |
+| **[midway-racer](https://github.com/fzn0x/midway-racer)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[Play in browser](https://fzn0x.github.io/midway-racer/) | Cycle-accurate Intel 8080 emulator for Midway's Laguna Racer and 280-ZZZAP arcade racers, written in Rust | `Rust` `WebAssembly` `wasm-bindgen` `cpal` `gilrs` `minifb` · `TypeScript` `Vite` |
+| **[nat-simulation](https://github.com/fzn0x/nat-simulation)** | Learn how NAT masquerading (iptables MASQUERADE) works with three small Go programs: a client, a router and a server. No root, no real firewall. | `Go` · standard library only |
+
+### Hardware & IoT
+
+| Project | Description | Built with |
+| :--- | :--- | :--- |
+| **[tapwave](https://github.com/fzn0x/tapwave)** | ESP32 firmware for NFC cards: a music box, a Home Assistant tag reader and a tag writer in one binary | `C++23` `ESP32` `Arduino` `PlatformIO` `NimBLE` `ArduinoJson` `MQTT` `Home Assistant` `LittleFS` · PN532 / RC522 readers |
+
+### Web3 & Agentic Payments
+
+| Project | Description | Built with |
+| :--- | :--- | :--- |
+| **[x402sdk](https://github.com/fzn0x/x402sdk)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[npm](https://www.npmjs.com/package/x402unified) | A unified SDK around the https://www.x402.org/ ecosystem, Integrate X402 with ease, easier adoption. (By contributor of Hono) | `TypeScript` `@x402/core` `@x402/evm` `@x402/hono` `@x402/paywall` `viem` `Hono` `Express` `tsup` `Vitest` |
+| **[8004sdk](https://github.com/fzn0x/8004sdk)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[EIP-8004 spec](https://eips.ethereum.org/EIPS/eip-8004) | A robust, developer-friendly TypeScript SDK for generating and registering ERC-8004 compliant agent identities. Seamlessly interact with 8004 registries and inject AgentCard metadata into modern web frameworks. | `TypeScript` `viem` `Hono` + `Express` adapters `tsup` `Vitest` · `ERC-8004` |
 
 <br>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | | |
 | :--- | :--- |
@@ -227,6 +227,6 @@ All public and open source. Descriptions are straight from each repo.
 
 <div align="center">
 
-<sub>Building tech software for the world at <a href="https://www.midoriresearch.com/">Midori Research</a> 🌿</sub>
+<sub>Building tech software for the world at <a href="https://www.midoriresearch.com/">Midori Research</a></sub>
 
 </div>
