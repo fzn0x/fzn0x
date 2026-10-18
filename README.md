@@ -23,16 +23,6 @@
 
 ## Open Source Contributions · 2019 → 2026
 
-<div align="center">
-
-| Merged PRs | Public repos | Orgs & maintainers | Combined stars |
-| :---: | :---: | :---: | :---: |
-| **182** | **71** | **54** | **765k+** |
-
-<sub>Merged pull requests into repositories I don't own, May 2020 → Feb 2026.</sub>
-
-</div>
-
 ### Featured
 
 <table>
