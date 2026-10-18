@@ -207,6 +207,6 @@ All public and open source. Descriptions are straight from each repo.
 
 <div align="center">
 
-<sub>Building tech software for the world at <a href="https://www.midoriresearch.com/">Midori Research</a></sub>
+<sub>Building tech software for the world at <a href="https://www.midoriresearch.com/">Midori Research</a></sub> 🍃
 
 </div>
