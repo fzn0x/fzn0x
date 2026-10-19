@@ -1,0 +1,38 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/scripts/update-readme.mjs
+      - .github/workflows/update-readme.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - run: node .github/scripts/update-readme.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -am 'chore: refresh README stats'
+          git pull --rebase
+          git push
