@@ -4,7 +4,7 @@
 
 <a href="https://www.midoriresearch.com/"><img src="https://img.shields.io/badge/midoriresearch.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://github.com/fzn0x?tab=followers"><img src="https://img.shields.io/badge/followers-624-0D1117?style=for-the-badge&logo=github" alt="Followers" /></a>
-<a href="https://github.com/fzn0x?tab=repositories"><img src="https://img.shields.io/badge/stars-560-0D1117?style=for-the-badge&logo=github" alt="Stars" /></a>
+<a href="https://github.com/fzn0x?tab=repositories"><img src="https://img.shields.io/badge/stars-561-0D1117?style=for-the-badge&logo=github" alt="Stars" /></a>
 <a href="https://github.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged+-user%3Afzn0x"><img src="https://img.shields.io/badge/merged_PRs-182-0D1117?style=for-the-badge&logo=git&logoColor=white" alt="Merged PRs" /></a>
 <img src="https://hits.sh/github.com/fzn0x.svg?style=for-the-badge&label=profile%20views&color=0d1117" alt="Profile views" />
 </div>
@@ -162,7 +162,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-165-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
+| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-166-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
 | **[core-banking-system](https://github.com/fzn0x/core-banking-system)**<br>![stars](https://img.shields.io/badge/stars-18-f5c518?style=flat-square&logo=github) | This is a demonstration of a simplified Core Banking System implemented in COBOL. | `COBOL` `GnuCOBOL` · copybooks, file-based account records, transaction and report programs |
 
 ### Developer Tools
