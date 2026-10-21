@@ -4,7 +4,7 @@
 
 <a href="https://www.midoriresearch.com/"><img src="https://img.shields.io/badge/midoriresearch.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://github.com/fzn0x?tab=followers"><img src="https://img.shields.io/badge/followers-628-0D1117?style=for-the-badge&logo=github" alt="Followers" /></a>
-<a href="https://github.com/fzn0x?tab=repositories"><img src="https://img.shields.io/badge/stars-574-0D1117?style=for-the-badge&logo=github" alt="Stars" /></a>
+<a href="https://github.com/fzn0x?tab=repositories"><img src="https://img.shields.io/badge/stars-577-0D1117?style=for-the-badge&logo=github" alt="Stars" /></a>
 <a href="https://github.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged+-user%3Afzn0x"><img src="https://img.shields.io/badge/merged_PRs-182-0D1117?style=for-the-badge&logo=git&logoColor=white" alt="Merged PRs" /></a>
 <img src="https://hits.sh/github.com/fzn0x.svg?style=for-the-badge&label=profile%20views&color=0d1117" alt="Profile views" />
 </div>
@@ -104,7 +104,7 @@
 | [fly-apps/live_beats](https://github.com/fly-apps/live_beats/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.4k | Fixed the profile link target (Elixir / Phoenix LiveView) | 1 | 2022 |
 | [prisma/web](https://github.com/prisma/web/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.1k | Docs: Sequelize comparison for cursor pagination | 1 | 2022 |
 | [nuxt/modules](https://github.com/nuxt/modules/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.1k | Added and maintained the `nuxt-web3` module entry | 2 | 2021–2022 |
-| [RioChndr/jaksel-language](https://github.com/RioChndr/jaksel-language/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 960 | New keywords: `worth it` (true) and `seriously` (const) | 2 | 2022 |
+| [RioChndr/jaksel-language](https://github.com/RioChndr/jaksel-language/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 959 | New keywords: `worth it` (true) and `seriously` (const) | 2 | 2022 |
 | [matter-labs/zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 959 | Added the missing MetaMask add-network step | 1 | 2023 |
 | [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 946 | Docs typo fix | 1 | 2022 |
 | [denoland/dotland](https://github.com/denoland/dotland/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 946 | Published Denovel, my Laravel-inspired Deno framework, to `deno.land/x` | 1 | 2020 |
@@ -154,7 +154,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[watchtower](https://github.com/fzn0x/watchtower)**<br>![stars](https://img.shields.io/badge/stars-217-f5c518?style=flat-square&logo=github) | Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate useful pentest reports for your websites. | `Python` `LangGraph` `LangChain` `LiteLLM` `ChromaDB` `Pydantic` `SQLAlchemy` `Docker` · Claude, OpenAI, Gemini, Ollama, OpenRouter · 23 tools incl. `nmap` `nuclei` `sqlmap` `ffuf` |
+| **[watchtower](https://github.com/fzn0x/watchtower)**<br>![stars](https://img.shields.io/badge/stars-218-f5c518?style=flat-square&logo=github) | Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate useful pentest reports for your websites. | `Python` `LangGraph` `LangChain` `LiteLLM` `ChromaDB` `Pydantic` `SQLAlchemy` `Docker` · Claude, OpenAI, Gemini, Ollama, OpenRouter · 23 tools incl. `nmap` `nuclei` `sqlmap` `ffuf` |
 | **[yolali](https://github.com/fzn0x/yolali)**<br>[Docs](https://fzn0x.github.io/yolali) | A YOLO you can actually read: clean-room, NMS-free, fully typed PyTorch object detection (Apache-2.0) | `Python` `PyTorch` `torchvision` `OpenCV` `ONNX Runtime` `DINOv2 (timm)` `uv` `Ruff` `Pyright` `MkDocs Material` |
 | **[transformer](https://github.com/fzn0x/transformer)**<br>![stars](https://img.shields.io/badge/stars-3-f5c518?style=flat-square&logo=github) | Transformer architecture in Node.js, foundation to modern AI models. | `JavaScript` `Node.js` · built from scratch on typed arrays, no ML frameworks |
 
@@ -162,7 +162,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-174-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
+| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-175-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
 | **[core-banking-system](https://github.com/fzn0x/core-banking-system)**<br>![stars](https://img.shields.io/badge/stars-18-f5c518?style=flat-square&logo=github) | This is a demonstration of a simplified Core Banking System implemented in COBOL. | `COBOL` `GnuCOBOL` · copybooks, file-based account records, transaction and report programs |
 
 ### Developer Tools
@@ -177,7 +177,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[mixmusic](https://github.com/fzn0x/mixmusic)**<br>![stars](https://img.shields.io/badge/stars-88-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/mixmusic/) | MixMusic: Spotify and YouTube Music in one player. Open-source desktop music player for macOS, Windows & Linux: one search, one queue, mixed playlists, synced lyrics, and equalizer with community themes and plugins. No Spotify Premium needed. | `Go` `MyGo` `TypeScript` `Preact` `Preact Signals` `Vite` `Bun` `yt-dlp` · system webview, no bundled browser · macOS, Windows, Linux |
+| **[mixmusic](https://github.com/fzn0x/mixmusic)**<br>![stars](https://img.shields.io/badge/stars-89-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/mixmusic/) | MixMusic: Spotify and YouTube Music in one player. Open-source desktop music player for macOS, Windows & Linux: one search, one queue, mixed playlists, synced lyrics, and equalizer with community themes and plugins. Using Native UI by MyGo ( https://github.com/egoist/mygo ). | `Go` `MyGo` `TypeScript` `Preact` `Preact Signals` `Vite` `Bun` `yt-dlp` · system webview, no bundled browser · macOS, Windows, Linux |
 | **[jumpman](https://github.com/fzn0x/jumpman)**<br>[Live demo](https://fzn0x.github.io/jumpman/) | Edit multiple photos at once. Open-source, offline-first batch photo editor for web & Android: global edits, layers, LUTs, Lightroom XMP, auto-match, smart selection, presets. | `React` `TypeScript` `Vite` `Tailwind CSS` `WebGL2` `Zustand` `Capacitor (Android)` `PWA / Workbox` `Astro` `pnpm workspaces` `Biome` `Playwright` |
 | **[verisign](https://github.com/fzn0x/verisign)**<br>[Live demo](https://verisign.midoriresearch.com/) | Self-hosted PDF signing with QR verification and SHA-512 integrity checks, on Cloudflare Workers and D1 | `Go` (workers-go) on `Cloudflare Workers` + `D1` · `React` `React Router` `TanStack Query` `Zustand` `pdf-lib` `pdf.js` `Vite` `Wrangler` |
 | **[doksli](https://github.com/fzn0x/doksli)**<br>[Live demo](https://doksli-ten.vercel.app) | Paste a tweet link, keep it as an image. Real tweets only, rendered from X and exported as PNG. Vite + React + Biome. | `React 19` `TypeScript` `Vite` `Biome` `modern-screenshot` `Vercel` |
