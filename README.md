@@ -3,8 +3,8 @@
 <br><br>
 
 <a href="https://www.midoriresearch.com/"><img src="https://img.shields.io/badge/midoriresearch.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://github.com/fzn0x?tab=followers"><img src="https://img.shields.io/badge/followers-625-0D1117?style=for-the-badge&logo=github" alt="Followers" /></a>
-<a href="https://github.com/fzn0x?tab=repositories"><img src="https://img.shields.io/badge/stars-562-0D1117?style=for-the-badge&logo=github" alt="Stars" /></a>
+<a href="https://github.com/fzn0x?tab=followers"><img src="https://img.shields.io/badge/followers-627-0D1117?style=for-the-badge&logo=github" alt="Followers" /></a>
+<a href="https://github.com/fzn0x?tab=repositories"><img src="https://img.shields.io/badge/stars-569-0D1117?style=for-the-badge&logo=github" alt="Stars" /></a>
 <a href="https://github.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged+-user%3Afzn0x"><img src="https://img.shields.io/badge/merged_PRs-182-0D1117?style=for-the-badge&logo=git&logoColor=white" alt="Merged PRs" /></a>
 <img src="https://hits.sh/github.com/fzn0x.svg?style=for-the-badge&label=profile%20views&color=0d1117" alt="Profile views" />
 </div>
@@ -146,7 +146,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[nusantara-landing](https://github.com/fzn0x/nusantara-landing)**<br>[Website](https://fzn0x.github.io/nusantara-landing/) | Company Landing Page Wordpress Theme made fully by Deepseek v4.1 Flash. Git operations and releases done by the same model. (Experimental Project on Cheap Model) | `PHP` `CSS` `HTML` `Python` `JavaScript` |
+| **[nusantara-landing](https://github.com/fzn0x/nusantara-landing)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/nusantara-landing/) | Company Landing Page Wordpress Theme made fully by Deepseek v4.1 Flash. Git operations and releases done by the same model. (Experimental Project on Cheap Model) | `PHP` `CSS` `HTML` `Python` `JavaScript` |
 
 <!-- new-projects:end -->
 
@@ -162,7 +162,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-166-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
+| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-170-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
 | **[core-banking-system](https://github.com/fzn0x/core-banking-system)**<br>![stars](https://img.shields.io/badge/stars-18-f5c518?style=flat-square&logo=github) | This is a demonstration of a simplified Core Banking System implemented in COBOL. | `COBOL` `GnuCOBOL` · copybooks, file-based account records, transaction and report programs |
 
 ### Developer Tools
@@ -177,7 +177,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[mixmusic](https://github.com/fzn0x/mixmusic)**<br>![stars](https://img.shields.io/badge/stars-86-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/mixmusic/) | MixMusic: Spotify and YouTube Music in one player. Open-source desktop music player for macOS, Windows & Linux: one search, one queue, mixed playlists, synced lyrics, and equalizer with community themes and plugins. No Spotify Premium needed. | `Go` `MyGo` `TypeScript` `Preact` `Preact Signals` `Vite` `Bun` `yt-dlp` · system webview, no bundled browser · macOS, Windows, Linux |
+| **[mixmusic](https://github.com/fzn0x/mixmusic)**<br>![stars](https://img.shields.io/badge/stars-88-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/mixmusic/) | MixMusic: Spotify and YouTube Music in one player. Open-source desktop music player for macOS, Windows & Linux: one search, one queue, mixed playlists, synced lyrics, and equalizer with community themes and plugins. No Spotify Premium needed. | `Go` `MyGo` `TypeScript` `Preact` `Preact Signals` `Vite` `Bun` `yt-dlp` · system webview, no bundled browser · macOS, Windows, Linux |
 | **[jumpman](https://github.com/fzn0x/jumpman)**<br>[Live demo](https://fzn0x.github.io/jumpman/) | Edit multiple photos at once. Open-source, offline-first batch photo editor for web & Android: global edits, layers, LUTs, Lightroom XMP, auto-match, smart selection, presets. | `React` `TypeScript` `Vite` `Tailwind CSS` `WebGL2` `Zustand` `Capacitor (Android)` `PWA / Workbox` `Astro` `pnpm workspaces` `Biome` `Playwright` |
 | **[verisign](https://github.com/fzn0x/verisign)**<br>[Live demo](https://verisign.midoriresearch.com/) | Self-hosted PDF signing with QR verification and SHA-512 integrity checks, on Cloudflare Workers and D1 | `Go` (workers-go) on `Cloudflare Workers` + `D1` · `React` `React Router` `TanStack Query` `Zustand` `pdf-lib` `pdf.js` `Vite` `Wrangler` |
 | **[doksli](https://github.com/fzn0x/doksli)**<br>[Live demo](https://doksli-ten.vercel.app) | Paste a tweet link, keep it as an image. Real tweets only, rendered from X and exported as PNG. Vite + React + Biome. | `React 19` `TypeScript` `Vite` `Biome` `modern-screenshot` `Vercel` |
