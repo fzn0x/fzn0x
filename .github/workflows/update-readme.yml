@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - README.md
+      - CONTRIBUTIONS.md
       - .github/scripts/update-readme.mjs
       - .github/workflows/update-readme.yml
 
@@ -30,7 +31,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit changes
         run: |
-          git diff --quiet README.md && exit 0
+          git diff --quiet README.md CONTRIBUTIONS.md && exit 0
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit -am 'chore: refresh README stats'

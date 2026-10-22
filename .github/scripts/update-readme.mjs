@@ -1,16 +1,18 @@
-// Refreshes the numbers in README.md that go stale: the header stats, star
-// counts of the repos I contributed to and of my own projects, and adds new
-// public repos to "My Projects". Run by .github/workflows/update-readme.yml.
+// Refreshes the numbers that go stale: the header stats and star counts of my
+// own projects in README.md, the star counts of the repos I contributed to and
+// my project count in CONTRIBUTIONS.md, and adds new public repos to
+// "My Projects". Run by .github/workflows/update-readme.yml.
 //
-// The README stays the source of truth: rows are updated in place, so hand
-// edits (categories, "Built with", demo links) survive. Repos that are not in
-// any category yet land in the generated block between the new-projects
+// The markdown files stay the source of truth: rows are updated in place, so
+// hand edits (categories, "Built with", demo links) survive. Repos that are not
+// in any category yet land in the generated block between the new-projects
 // markers; move a row out of it into a category to keep your edits.
 
 import { readFile, writeFile } from 'node:fs/promises'
 
 const USER = 'fzn0x'
 const README = new URL('../../README.md', import.meta.url)
+const CONTRIBUTIONS = new URL('../../CONTRIBUTIONS.md', import.meta.url)
 const MERGED_PRS_QUERY = `is:pr author:${USER} is:merged -user:${USER}`
 const NEW_START = '<!-- new-projects:start -->'
 const NEW_END = '<!-- new-projects:end -->'
@@ -39,8 +41,10 @@ const parseCompact = (s) => (s.endsWith('k') ? parseFloat(s) * 1000 : Number(s))
 const cell = (s) => s.replace(/\s+/g, ' ').trim().replace(/\|/g, '\\|')
 const starBadge = (n) => `![stars](https://img.shields.io/badge/stars-${n}-f5c518?style=flat-square&logo=github)`
 
-let readme = (await readFile(README, 'utf8')).replace(/\r\n/g, '\n')
-const original = readme
+const load = async (file) => (await readFile(file, 'utf8')).replace(/\r\n/g, '\n')
+let readme = await load(README)
+let contributions = await load(CONTRIBUTIONS)
+const original = { readme, contributions }
 
 // Header stats
 const [user, repos, merged] = await Promise.all([
@@ -58,8 +62,8 @@ readme = readme
 const FEATURED = /(\*\*\[[^\]]+\]\(https:\/\/github\.com\/([\w.-]+\/[\w.-]+)\/pulls[^)]*\)\*\*(?:(?!<\/td>)[\s\S])*?img\.shields\.io\/badge\/stars-)([\d.]+k?)/g
 const CONTRIB_ROW = /^\| \[([\w.-]+\/[\w.-]+)\]\(https:\/\/github\.com\/[^)]+\) \| ([\d.]+k?) \|/
 
-const slugs = new Set([...readme.matchAll(FEATURED)].map((m) => m[2]))
-for (const line of readme.split('\n')) {
+const slugs = new Set([...contributions.matchAll(FEATURED)].map((m) => m[2]))
+for (const line of contributions.split('\n')) {
   const m = line.match(CONTRIB_ROW)
   if (m) slugs.add(m[1])
 }
@@ -70,9 +74,9 @@ for (const slug of slugs) {
   else console.warn(`skipping ${slug}: not found`)
 }
 
-readme = readme.replace(FEATURED, (all, head, slug) => (stars.has(slug) ? head + compact(stars.get(slug)) : all))
+contributions = contributions.replace(FEATURED, (all, head, slug) => (stars.has(slug) ? head + compact(stars.get(slug)) : all))
 
-const lines = readme.split('\n')
+const lines = contributions.split('\n')
 for (let i = 0; i < lines.length; i++) {
   if (!CONTRIB_ROW.test(lines[i])) continue
   let end = i
@@ -86,10 +90,10 @@ for (let i = 0; i < lines.length; i++) {
   lines.splice(i, rows.length, ...rows.map((r) => r.line))
   i = end
 }
-readme = lines.join('\n')
+contributions = lines.join('\n')
 
 const month = new Date().toLocaleString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' })
-readme = readme.replace(/Star counts as of \w+ \d{4}/, `Star counts as of ${month}`)
+contributions = contributions.replace(/Star counts as of \w+ \d{4}/, `Star counts as of ${month}`)
 
 // My Projects
 const PROJECT_ROW = new RegExp(`^\\| \\*\\*\\[([\\w.-]+)\\]\\(https://github\\.com/${USER}/\\1\\)\\*\\*`)
@@ -115,7 +119,8 @@ async function newProjectRow(repo) {
 }
 
 const start = readme.indexOf('## My Projects')
-const end = readme.indexOf('\n## ', start + 1)
+let end = readme.indexOf('\n## ', start + 1)
+if (end < 0) end = readme.length
 let section = readme.slice(start, end)
 const blockStart = section.indexOf(NEW_START)
 const blockEnd = section.indexOf(NEW_END)
@@ -140,11 +145,12 @@ section = section.replace(NEW_START, () => NEW_START + block)
 
 const projectCount = section.split('\n').filter((line) => PROJECT_ROW.test(line)).length
 readme = readme.slice(0, start) + section + readme.slice(end)
-readme = readme.replace(/\d+ public projects below/, `${projectCount} public projects below`)
+contributions = contributions.replace(/\d+ public projects/, `${projectCount} public projects`)
 
-if (readme === original) {
-  console.log('README is up to date')
+if (readme === original.readme && contributions === original.contributions) {
+  console.log('README and CONTRIBUTIONS are up to date')
 } else {
-  await writeFile(README, readme)
-  console.log(`README updated: ${totalStars} stars, ${user.followers} followers, ${merged.total_count} merged PRs, ${projectCount} projects`)
+  if (readme !== original.readme) await writeFile(README, readme)
+  if (contributions !== original.contributions) await writeFile(CONTRIBUTIONS, contributions)
+  console.log(`Updated: ${totalStars} stars, ${user.followers} followers, ${merged.total_count} merged PRs, ${projectCount} projects`)
 }
