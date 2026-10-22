@@ -11,6 +11,44 @@
 
 <br>
 
+<a>   
+<img 
+  alt="Pasukan Genjot Rusa (RUSA RUST RUSA RUSA)" 
+  src="https://github.com/user-attachments/assets/574805d3-5ef3-42e3-9e1d-78a6b86f1f5e"   
+  style="margin-top:20px;margin-right:13px"
+  align="left" 
+  height="400px" 
+/>
+</a>
+
+```rust
+pub const FZN0X: Dev = Dev {
+    name: "fzn0x",
+    username: "fzn0x",
+    role: "Fullstack developer, agentic & blockchain systems architect",
+    workplace: "Midori Research (Founder) 🌿",
+    organization: &[
+        "@sequelize 🗄️",
+        "contributor @honojs 🔥",
+        "contributor @faker-js 🎭",
+    ],
+    city: "Indonesia, 🇮🇩 (UTC+07:00)",
+    lang: &["id", "en"],
+    interests: &[
+        "🦀 Rust & systems programming",
+        "🤖 AI agents & MCP",
+        "⛓️ Web3 & agentic payments",
+        "🛠️ developer tools",
+        "🧩 compilers & emulation",
+        "📈 Financial markets",
+        "🔌 hardware & IoT",
+    ],
+};
+
+```
+
+> Do you know why the Fool is the most powerful Card in the Tarot? Not because the person who draws him is a fool. He's a fool because he's a clean slate. And therefore, can become anything.
+
 ## Open Source Contributions · 2019 → 2026
 
 ### Featured
