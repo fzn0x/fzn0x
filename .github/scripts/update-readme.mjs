@@ -1,7 +1,8 @@
-// Refreshes the numbers that go stale: the header stats and star counts of my
-// own projects in README.md, the star counts of the repos I contributed to and
-// my project count in CONTRIBUTIONS.md, and adds new public repos to
-// "My Projects". Run by .github/workflows/update-readme.yml.
+// Refreshes the numbers that go stale: the header stats in README.md, the star
+// counts of the repos I contributed to and my project count in
+// CONTRIBUTIONS.md, and the star counts of my own projects in PROJECTS.md,
+// where new public repos are also added. Run by
+// .github/workflows/update-readme.yml.
 //
 // The markdown files stay the source of truth: rows are updated in place, so
 // hand edits (categories, "Built with", demo links) survive. Repos that are not
@@ -13,6 +14,7 @@ import { readFile, writeFile } from 'node:fs/promises'
 const USER = 'fzn0x'
 const README = new URL('../../README.md', import.meta.url)
 const CONTRIBUTIONS = new URL('../../CONTRIBUTIONS.md', import.meta.url)
+const PROJECTS = new URL('../../PROJECTS.md', import.meta.url)
 const MERGED_PRS_QUERY = `is:pr author:${USER} is:merged -user:${USER}`
 const NEW_START = '<!-- new-projects:start -->'
 const NEW_END = '<!-- new-projects:end -->'
@@ -44,7 +46,8 @@ const starBadge = (n) => `![stars](https://img.shields.io/badge/stars-${n}-f5c51
 const load = async (file) => (await readFile(file, 'utf8')).replace(/\r\n/g, '\n')
 let readme = await load(README)
 let contributions = await load(CONTRIBUTIONS)
-const original = { readme, contributions }
+let projects = await load(PROJECTS)
+const original = { readme, contributions, projects }
 
 // Header stats
 const [user, repos, merged] = await Promise.all([
@@ -118,39 +121,39 @@ async function newProjectRow(repo) {
   return `| ${parts.join('<br>')} | ${cell(repo.description ?? '')} | ${languages.map((l) => `\`${l}\``).join(' ')} |`
 }
 
-const start = readme.indexOf('## My Projects')
-let end = readme.indexOf('\n## ', start + 1)
-if (end < 0) end = readme.length
-let section = readme.slice(start, end)
-const blockStart = section.indexOf(NEW_START)
-const blockEnd = section.indexOf(NEW_END)
-if (blockStart < 0 || blockEnd < 0) throw new Error(`"My Projects" is missing the ${NEW_START} / ${NEW_END} markers`)
-section = section.slice(0, blockStart + NEW_START.length) + section.slice(blockEnd)
+const blockStart = projects.indexOf(NEW_START)
+const blockEnd = projects.indexOf(NEW_END)
+if (blockStart < 0 || blockEnd < 0) throw new Error(`PROJECTS.md is missing the ${NEW_START} / ${NEW_END} markers`)
+projects = projects.slice(0, blockStart + NEW_START.length) + projects.slice(blockEnd)
 
-section = section
+projects = projects
   .split('\n')
   .map((line) => (PROJECT_ROW.test(line) ? updateProjectRow(line) : line))
   .join('\n')
 
-const listed = new Set(section.split('\n').flatMap((line) => line.match(PROJECT_ROW)?.[1] ?? []))
+const listed = new Set(projects.split('\n').flatMap((line) => line.match(PROJECT_ROW)?.[1] ?? []))
 const fresh = repos
   .filter((r) => !r.archived && r.name !== USER && !listed.has(r.name))
   .sort((a, b) => b.created_at.localeCompare(a.created_at))
 let block = ''
 if (fresh.length) {
   const rows = await Promise.all(fresh.map(newProjectRow))
-  block = `\n### New\n\n| Project | Description | Built with |\n| :--- | :--- | :--- |\n${rows.join('\n')}\n\n`
+  block = `\n## New\n\n| Project | Description | Built with |\n| :--- | :--- | :--- |\n${rows.join('\n')}\n\n`
 }
-section = section.replace(NEW_START, () => NEW_START + block)
+projects = projects.replace(NEW_START, () => NEW_START + block)
 
-const projectCount = section.split('\n').filter((line) => PROJECT_ROW.test(line)).length
-readme = readme.slice(0, start) + section + readme.slice(end)
+const projectCount = projects.split('\n').filter((line) => PROJECT_ROW.test(line)).length
 contributions = contributions.replace(/\d+ public projects/, `${projectCount} public projects`)
 
-if (readme === original.readme && contributions === original.contributions) {
-  console.log('README and CONTRIBUTIONS are up to date')
+const changed = [
+  [README, readme, original.readme],
+  [CONTRIBUTIONS, contributions, original.contributions],
+  [PROJECTS, projects, original.projects],
+].filter(([, text, before]) => text !== before)
+
+if (!changed.length) {
+  console.log('Profile is up to date')
 } else {
-  if (readme !== original.readme) await writeFile(README, readme)
-  if (contributions !== original.contributions) await writeFile(CONTRIBUTIONS, contributions)
+  for (const [file, text] of changed) await writeFile(file, text)
   console.log(`Updated: ${totalStars} stars, ${user.followers} followers, ${merged.total_count} merged PRs, ${projectCount} projects`)
 }
