@@ -28,7 +28,7 @@
 <img src="https://github.com/sequelize.png?size=40" width="20" /> **[Sequelize](https://github.com/sequelize/sequelize/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged)**<br>
 <sub>Feature-rich ORM for Node.js & TypeScript</sub>
 
-<img src="https://img.shields.io/badge/stars-30.3k-52B0E7?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/stars-30.4k-52B0E7?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/merged_PRs-55-52B0E7?style=flat-square" />
 <img src="https://img.shields.io/badge/2021%E2%80%932023-555?style=flat-square" />
 
