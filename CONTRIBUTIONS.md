@@ -97,7 +97,7 @@
 | [matter-labs/zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 959 | Added the missing MetaMask add-network step | 1 | 2023 |
 | [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 946 | Docs typo fix | 1 | 2022 |
 | [denoland/dotland](https://github.com/denoland/dotland/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 946 | Published Denovel, my Laravel-inspired Deno framework, to `deno.land/x` | 1 | 2020 |
-| [okhosting/awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 786 | Listed Watchtower | 1 | 2026 |
+| [okhosting/awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 787 | Listed Watchtower | 1 | 2026 |
 | [kawalcovid19/wargabantuwarga.com](https://github.com/kawalcovid19/wargabantuwarga.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 558 | COVID-19 civic info site: open-map button, province search, kebab-case fix, setup docs | 4 | 2021 |
 | [reactjs/id.react.dev](https://github.com/reactjs/id.react.dev/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 326 | Indonesian translation fixes for the official React docs | 1 | 2023 |
 
