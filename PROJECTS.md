@@ -9,6 +9,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
+| **[nether](https://github.com/fzn0x/nether)** | Open-source workspace that joins Obsidian's local-first Markdown notes with Notion's databases and collaboration, on a server you control. | `TypeScript` `JavaScript` |
 | **[MiTV-AXSO2-debloat](https://github.com/fzn0x/MiTV-AXSO2-debloat)**<br>![stars](https://img.shields.io/badge/stars-5-f5c518?style=flat-square&logo=github) | Debloat scripts, verified package lists, an AI-assistant prompt and an Apple TV-style launcher for the Xiaomi MiTV-AXSO2 (Android TV 11) | `Java` `Shell` `Python` |
 | **[nusantara-landing](https://github.com/fzn0x/nusantara-landing)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/nusantara-landing/) | Company Landing Page Wordpress Theme made fully by Deepseek v4.1 Flash. Git operations and releases done by the same model. (Experimental Project on Cheap Model) | `PHP` `CSS` `HTML` `Python` `JavaScript` |
 

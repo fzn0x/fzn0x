@@ -122,4 +122,4 @@
 | **2023** | 5 | <code>█░░░░░░░░░░░░░░░░░░░</code> | zkSync Era docs, React docs (ID), Sequelize website |
 | **2024** | 18 | <code>█████░░░░░░░░░░░░░░░</code> | Hono core + website, Bun, Remix Auth, twitter-api-v2, Faker |
 | **2025** | 6 | <code>██░░░░░░░░░░░░░░░░░░</code> | IntentKit and Veln (AI agent frameworks) |
-| **2026** | 1 | <code>█░░░░░░░░░░░░░░░░░░░</code> | Mostly shipping my own open source: [21 public projects](https://github.com/fzn0x/fzn0x/blob/main/PROJECTS.md) |
+| **2026** | 1 | <code>█░░░░░░░░░░░░░░░░░░░</code> | Mostly shipping my own open source: [22 public projects](https://github.com/fzn0x/fzn0x/blob/main/PROJECTS.md) |
