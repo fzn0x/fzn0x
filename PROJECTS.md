@@ -9,7 +9,8 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[nether](https://github.com/fzn0x/nether)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/nether/) | Nether is combining Notion and Obsidian. Open-source workspace that joins Obsidian's local-first Markdown notes with Notion's databases and collaboration, on a server you control. | `TypeScript` `Go` `CSS` `JavaScript` `MDX` |
+| **[hn-daily-digest](https://github.com/fzn0x/hn-daily-digest)** | HackerNews Daily Archive | `Python` |
+| **[Nether](https://github.com/fzn0x/Nether)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/Nether/) | Nether is combining both Notion and Obsidian features. Open-source workspace that joins Obsidian's local-first Markdown notes with Notion's databases and collaboration, on a server you control. Self-hosting is available for enterprise. | `TypeScript` `Go` `CSS` `JavaScript` `PowerShell` |
 | **[MiTV-AXSO2-debloat](https://github.com/fzn0x/MiTV-AXSO2-debloat)**<br>![stars](https://img.shields.io/badge/stars-5-f5c518?style=flat-square&logo=github) | Debloat scripts, verified package lists, an AI-assistant prompt and an Apple TV-style launcher for the Xiaomi MiTV-AXSO2 (Android TV 11) | `Java` `Shell` `Python` |
 | **[nusantara-landing](https://github.com/fzn0x/nusantara-landing)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/nusantara-landing/) | Company Landing Page Wordpress Theme made fully by Deepseek v4.1 Flash. Git operations and releases done by the same model. (Experimental Project on Cheap Model) | `PHP` `CSS` `HTML` `Python` `JavaScript` |
 
@@ -27,7 +28,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-203-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
+| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-204-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. Changelog: https://github.com/fzn0x/idx/blob/main/CHANGELOG.md | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
 | **[core-banking-system](https://github.com/fzn0x/core-banking-system)**<br>![stars](https://img.shields.io/badge/stars-18-f5c518?style=flat-square&logo=github) | This is a demonstration of a simplified Core Banking System implemented in COBOL. | `COBOL` `GnuCOBOL` · copybooks, file-based account records, transaction and report programs |
 
 ## Developer Tools
