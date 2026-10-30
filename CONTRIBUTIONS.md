@@ -11,7 +11,7 @@
 <img src="https://github.com/honojs.png?size=40" width="20" /> **[Hono](https://github.com/honojs/hono/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged)**<br>
 <sub>Web framework built on Web Standards</sub>
 
-<img src="https://img.shields.io/badge/stars-32.7k-E36002?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/stars-32.8k-E36002?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/merged_PRs-11-E36002?style=flat-square" />
 <img src="https://img.shields.io/badge/2024-555?style=flat-square" />
 
