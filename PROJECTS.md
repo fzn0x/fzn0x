@@ -9,8 +9,8 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[hn-daily-digest](https://github.com/fzn0x/hn-daily-digest)** | HackerNews Daily Archive | `Python` |
-| **[Nether](https://github.com/fzn0x/Nether)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/Nether/) | Nether is combining both Notion and Obsidian features. Open-source workspace that joins Obsidian's local-first Markdown notes with Notion's databases and collaboration, on a server you control. Self-hosting is available for enterprise. | `TypeScript` `Go` `CSS` `JavaScript` `PowerShell` |
+| **[hn-daily-digest](https://github.com/fzn0x/hn-daily-digest)**<br>[Website](https://news.ycombinator.com/) | ✿ HackerNews Daily Archive | `Python` |
+| **[Nether](https://github.com/fzn0x/Nether)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/Nether/) | Nether is self-hostable and local-first note taking app combining both Notion and Obsidian features. You can import your Obsidian vaults and Notion exports. Self-hosting is available for enterprise. | `TypeScript` `Go` `CSS` `PowerShell` `JavaScript` |
 | **[MiTV-AXSO2-debloat](https://github.com/fzn0x/MiTV-AXSO2-debloat)**<br>![stars](https://img.shields.io/badge/stars-5-f5c518?style=flat-square&logo=github) | Debloat scripts, verified package lists, an AI-assistant prompt and an Apple TV-style launcher for the Xiaomi MiTV-AXSO2 (Android TV 11) | `Java` `Shell` `Python` |
 | **[nusantara-landing](https://github.com/fzn0x/nusantara-landing)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/nusantara-landing/) | Company Landing Page Wordpress Theme made fully by Deepseek v4.1 Flash. Git operations and releases done by the same model. (Experimental Project on Cheap Model) | `PHP` `CSS` `HTML` `Python` `JavaScript` |
 
