@@ -101,7 +101,7 @@
 | [kawalcovid19/wargabantuwarga.com](https://github.com/kawalcovid19/wargabantuwarga.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 558 | COVID-19 civic info site: open-map button, province search, kebab-case fix, setup docs | 4 | 2021 |
 | [reactjs/id.react.dev](https://github.com/reactjs/id.react.dev/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 326 | Indonesian translation fixes for the official React docs | 1 | 2023 |
 
-<sub>Star counts as of October 2026.</sub>
+<sub>Star counts as of November 2026.</sub>
 
 <details>
 <summary><b>34 more repositories</b> (54 PRs): Indonesian dev community, admin templates, Go & Deno libraries, bots and tooling</summary>
