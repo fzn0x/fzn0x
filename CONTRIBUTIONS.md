@@ -74,7 +74,7 @@
 | [oven-sh/bun](https://github.com/oven-sh/bun/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 96.5k | `bun:sqlite` docs fix for `.run()` | 1 | 2024 |
 | [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 65.3k | `id-ID` translation fixes | 1 | 2020 |
 | [jestjs/jest](https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 45.5k | Docs: using Jest with Vite | 1 | 2022 |
-| [gofiber/fiber](https://github.com/gofiber/fiber/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 40.2k | Indonesian README tweaks and translation fixes | 2 | 2022 |
+| [gofiber/fiber](https://github.com/gofiber/fiber/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 40.3k | Indonesian README tweaks and translation fixes | 2 | 2022 |
 | [remy/nodemon](https://github.com/remy/nodemon/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 26.7k | Installation docs improvements | 1 | 2021 |
 | [web3/web3.js](https://github.com/web3/web3.js/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 19.9k | Synced the web3.php link in the other-languages docs | 1 | 2022 |
 | [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 18.8k | Guide fixes | 1 | 2021 |
