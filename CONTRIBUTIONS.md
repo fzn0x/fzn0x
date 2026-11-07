@@ -71,7 +71,7 @@
 | :--- | :---: | :--- | :---: | :---: |
 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 196.7k | Indonesian translation improvements | 1 | 2022 |
 | [denoland/deno](https://github.com/denoland/deno/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 108.9k | Reworked the built-in utilities section of the README | 1 | 2021 |
-| [oven-sh/bun](https://github.com/oven-sh/bun/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 96.6k | `bun:sqlite` docs fix for `.run()` | 1 | 2024 |
+| [oven-sh/bun](https://github.com/oven-sh/bun/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 96.7k | `bun:sqlite` docs fix for `.run()` | 1 | 2024 |
 | [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 65.3k | `id-ID` translation fixes | 1 | 2020 |
 | [jestjs/jest](https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 45.5k | Docs: using Jest with Vite | 1 | 2022 |
 | [gofiber/fiber](https://github.com/gofiber/fiber/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 40.3k | Indonesian README tweaks and translation fixes | 2 | 2022 |
