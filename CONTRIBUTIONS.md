@@ -45,7 +45,7 @@
 <img src="https://github.com/faker-js.png?size=40" width="20" /> **[Faker](https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged)**<br>
 <sub>Generate massive amounts of fake data</sub>
 
-<img src="https://img.shields.io/badge/stars-15.5k-C2A633?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/stars-15.6k-C2A633?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/merged_PRs-12-C2A633?style=flat-square" />
 <img src="https://img.shields.io/badge/2022%E2%80%932024-555?style=flat-square" />
 
@@ -78,7 +78,7 @@
 | [remy/nodemon](https://github.com/remy/nodemon/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 26.7k | Installation docs improvements | 1 | 2021 |
 | [web3/web3.js](https://github.com/web3/web3.js/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 19.9k | Synced the web3.php link in the other-languages docs | 1 | 2022 |
 | [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 18.8k | Guide fixes | 1 | 2021 |
-| [npm/cli](https://github.com/npm/cli/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 10.2k | Clearer environment guidance in the bug-report template | 1 | 2022 |
+| [npm/cli](https://github.com/npm/cli/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 10.3k | Clearer environment guidance in the bug-report template | 1 | 2022 |
 | [ai/easings.net](https://github.com/ai/easings.net/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 8.7k | Indonesian translation fixes | 1 | 2021 |
 | [markdoc/markdoc](https://github.com/markdoc/markdoc/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 8.5k | Link `title` attribute in the parser, better error messages, strict-equality refactor | 3 | 2022 |
 | [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 6.5k | README typo and path fixes | 1 | 2025 |
@@ -97,7 +97,7 @@
 | [matter-labs/zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 959 | Added the missing MetaMask add-network step | 1 | 2023 |
 | [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 946 | Docs typo fix | 1 | 2022 |
 | [denoland/dotland](https://github.com/denoland/dotland/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 946 | Published Denovel, my Laravel-inspired Deno framework, to `deno.land/x` | 1 | 2020 |
-| [okhosting/awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 797 | Listed Watchtower | 1 | 2026 |
+| [okhosting/awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 798 | Listed Watchtower | 1 | 2026 |
 | [kawalcovid19/wargabantuwarga.com](https://github.com/kawalcovid19/wargabantuwarga.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 558 | COVID-19 civic info site: open-map button, province search, kebab-case fix, setup docs | 4 | 2021 |
 | [reactjs/id.react.dev](https://github.com/reactjs/id.react.dev/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 327 | Indonesian translation fixes for the official React docs | 1 | 2023 |
 
