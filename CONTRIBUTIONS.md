@@ -45,7 +45,7 @@
 <img src="https://github.com/faker-js.png?size=40" width="20" /> **[Faker](https://github.com/faker-js/faker/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged)**<br>
 <sub>Generate massive amounts of fake data</sub>
 
-<img src="https://img.shields.io/badge/stars-15.6k-C2A633?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/stars-15.5k-C2A633?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/merged_PRs-12-C2A633?style=flat-square" />
 <img src="https://img.shields.io/badge/2022%E2%80%932024-555?style=flat-square" />
 
