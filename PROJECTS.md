@@ -9,7 +9,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[homebrew-tap](https://github.com/fzn0x/homebrew-tap)** | For publishing to homebrew cask |  |
+| **[homebrew-tap](https://github.com/fzn0x/homebrew-tap)** | For publishing to homebrew cask | `Ruby` |
 | **[phonescan](https://github.com/fzn0x/phonescan)**<br>![stars](https://img.shields.io/badge/stars-2-f5c518?style=flat-square&logo=github) | Are your phone number on the f*cking internet?! | `Python` |
 | **[pi-gemini-auth](https://github.com/fzn0x/pi-gemini-auth)**<br>![stars](https://img.shields.io/badge/stars-7-f5c518?style=flat-square&logo=github) | A small local rotator that serves your Google Antigravity accounts to the Pi coding agent over an OpenAI-compatible API. | `TypeScript` `JavaScript` |
 | **[hn-daily-digest](https://github.com/fzn0x/hn-daily-digest)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[Website](https://news.ycombinator.com/) | ✿ HackerNews Daily Archive | `Python` |
@@ -31,7 +31,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-230-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | IDX - Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
+| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-231-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | IDX - Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
 | **[core-banking-system](https://github.com/fzn0x/core-banking-system)**<br>![stars](https://img.shields.io/badge/stars-18-f5c518?style=flat-square&logo=github) | This is a demonstration of a simplified Core Banking System implemented in COBOL. | `COBOL` `GnuCOBOL` · copybooks, file-based account records, transaction and report programs |
 
 ## Developer Tools
@@ -46,7 +46,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[mixmusic](https://github.com/fzn0x/mixmusic)**<br>![stars](https://img.shields.io/badge/stars-415-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/mixmusic/) | MixMusic is a native desktop player for YouTube Music and Spotify on macOS, Windows and Linux with Community Themes and Plugins. iOS and Android Coming Soon. | `Go` `MyGo` `TypeScript` `Preact` `Preact Signals` `Vite` `Bun` `yt-dlp` · system webview, no bundled browser · macOS, Windows, Linux |
+| **[mixmusic](https://github.com/fzn0x/mixmusic)**<br>![stars](https://img.shields.io/badge/stars-422-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/mixmusic/) | MixMusic is a native desktop player for YouTube Music and Spotify on macOS, Windows and Linux with Community Themes and Plugins. iOS and Android Coming Soon. | `Go` `MyGo` `TypeScript` `Preact` `Preact Signals` `Vite` `Bun` `yt-dlp` · system webview, no bundled browser · macOS, Windows, Linux |
 | **[jumpman](https://github.com/fzn0x/jumpman)**<br>[Live demo](https://fzn0x.github.io/jumpman/) | Edit multiple photos at once. Open-source, offline-first batch photo editor for web & Android: global edits, layers, LUTs, Lightroom XMP, auto-match, smart selection, presets. | `React` `TypeScript` `Vite` `Tailwind CSS` `WebGL2` `Zustand` `Capacitor (Android)` `PWA / Workbox` `Astro` `pnpm workspaces` `Biome` `Playwright` |
 | **[verisign](https://github.com/fzn0x/verisign)**<br>[Live demo](https://verisign.midoriresearch.com/) | Self-hosted PDF signing with QR verification and SHA-512 integrity checks, on Cloudflare Workers and D1 | `Go` (workers-go) on `Cloudflare Workers` + `D1` · `React` `React Router` `TanStack Query` `Zustand` `pdf-lib` `pdf.js` `Vite` `Wrangler` |
 | **[doksli](https://github.com/fzn0x/doksli)**<br>[Live demo](https://doksli-ten.vercel.app) | Paste a tweet link, keep it as an image. Real tweets only, rendered from X and exported as PNG. Vite + React + Biome. | `React 19` `TypeScript` `Vite` `Biome` `modern-screenshot` `Vercel` |

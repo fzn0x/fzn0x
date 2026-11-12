@@ -94,7 +94,7 @@
 | [prisma/web](https://github.com/prisma/web/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.1k | Docs: Sequelize comparison for cursor pagination | 1 | 2022 |
 | [nuxt/modules](https://github.com/nuxt/modules/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.1k | Added and maintained the `nuxt-web3` module entry | 2 | 2021–2022 |
 | [RioChndr/jaksel-language](https://github.com/RioChndr/jaksel-language/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 960 | New keywords: `worth it` (true) and `seriously` (const) | 2 | 2022 |
-| [matter-labs/zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 959 | Added the missing MetaMask add-network step | 1 | 2023 |
+| [matter-labs/zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 958 | Added the missing MetaMask add-network step | 1 | 2023 |
 | [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 946 | Docs typo fix | 1 | 2022 |
 | [denoland/dotland](https://github.com/denoland/dotland/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 945 | Published Denovel, my Laravel-inspired Deno framework, to `deno.land/x` | 1 | 2020 |
 | [okhosting/awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 798 | Listed Watchtower | 1 | 2026 |
