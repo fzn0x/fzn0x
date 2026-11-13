@@ -11,7 +11,7 @@
 <img src="https://github.com/honojs.png?size=40" width="20" /> **[Hono](https://github.com/honojs/hono/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged)**<br>
 <sub>Web framework built on Web Standards</sub>
 
-<img src="https://img.shields.io/badge/stars-33k-E36002?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/stars-32.9k-E36002?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/merged_PRs-11-E36002?style=flat-square" />
 <img src="https://img.shields.io/badge/2024-555?style=flat-square" />
 
@@ -97,7 +97,7 @@
 | [matter-labs/zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 958 | Added the missing MetaMask add-network step | 1 | 2023 |
 | [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 946 | Docs typo fix | 1 | 2022 |
 | [denoland/dotland](https://github.com/denoland/dotland/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 945 | Published Denovel, my Laravel-inspired Deno framework, to `deno.land/x` | 1 | 2020 |
-| [okhosting/awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 798 | Listed Watchtower | 1 | 2026 |
+| [okhosting/awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 799 | Listed Watchtower | 1 | 2026 |
 | [kawalcovid19/wargabantuwarga.com](https://github.com/kawalcovid19/wargabantuwarga.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 557 | COVID-19 civic info site: open-map button, province search, kebab-case fix, setup docs | 4 | 2021 |
 | [reactjs/id.react.dev](https://github.com/reactjs/id.react.dev/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 327 | Indonesian translation fixes for the official React docs | 1 | 2023 |
 
@@ -122,4 +122,4 @@
 | **2023** | 5 | <code>█░░░░░░░░░░░░░░░░░░░</code> | zkSync Era docs, React docs (ID), Sequelize website |
 | **2024** | 18 | <code>█████░░░░░░░░░░░░░░░</code> | Hono core + website, Bun, Remix Auth, twitter-api-v2, Faker |
 | **2025** | 6 | <code>██░░░░░░░░░░░░░░░░░░</code> | IntentKit and Veln (AI agent frameworks) |
-| **2026** | 1 | <code>█░░░░░░░░░░░░░░░░░░░</code> | Mostly shipping my own open source: [26 public projects](https://github.com/fzn0x/fzn0x/blob/main/PROJECTS.md) |
+| **2026** | 1 | <code>█░░░░░░░░░░░░░░░░░░░</code> | Mostly shipping my own open source: [27 public projects](https://github.com/fzn0x/fzn0x/blob/main/PROJECTS.md) |
