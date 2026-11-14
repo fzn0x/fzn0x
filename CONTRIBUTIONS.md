@@ -11,7 +11,7 @@
 <img src="https://github.com/honojs.png?size=40" width="20" /> **[Hono](https://github.com/honojs/hono/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged)**<br>
 <sub>Web framework built on Web Standards</sub>
 
-<img src="https://img.shields.io/badge/stars-32.9k-E36002?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/stars-33k-E36002?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/merged_PRs-11-E36002?style=flat-square" />
 <img src="https://img.shields.io/badge/2024-555?style=flat-square" />
 
@@ -122,4 +122,4 @@
 | **2023** | 5 | <code>█░░░░░░░░░░░░░░░░░░░</code> | zkSync Era docs, React docs (ID), Sequelize website |
 | **2024** | 18 | <code>█████░░░░░░░░░░░░░░░</code> | Hono core + website, Bun, Remix Auth, twitter-api-v2, Faker |
 | **2025** | 6 | <code>██░░░░░░░░░░░░░░░░░░</code> | IntentKit and Veln (AI agent frameworks) |
-| **2026** | 1 | <code>█░░░░░░░░░░░░░░░░░░░</code> | Mostly shipping my own open source: [28 public projects](https://github.com/fzn0x/fzn0x/blob/main/PROJECTS.md) |
+| **2026** | 1 | <code>█░░░░░░░░░░░░░░░░░░░</code> | Mostly shipping my own open source: [29 public projects](https://github.com/fzn0x/fzn0x/blob/main/PROJECTS.md) |

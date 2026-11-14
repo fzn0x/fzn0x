@@ -9,6 +9,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
+| **[bigger-than-anything](https://github.com/fzn0x/bigger-than-anything)** | This is bigger than anything that I have created openly. (Coming soon) |  |
 | **[scoop-bucket](https://github.com/fzn0x/scoop-bucket)** | Scoop bucket for fzn0x apps |  |
 | **[worldoptimization](https://github.com/fzn0x/worldoptimization)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github) | Offline backup of worldoptimization Caroline Ellison - Fake Charity Nerd Girl blog. | `HTML` `Python` `JavaScript` |
 | **[homebrew-tap](https://github.com/fzn0x/homebrew-tap)** | For publishing to homebrew cask | `Ruby` |
@@ -33,14 +34,14 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-234-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | IDX - Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
+| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-235-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | IDX - Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
 | **[core-banking-system](https://github.com/fzn0x/core-banking-system)**<br>![stars](https://img.shields.io/badge/stars-18-f5c518?style=flat-square&logo=github) | This is a demonstration of a simplified Core Banking System implemented in COBOL. | `COBOL` `GnuCOBOL` · copybooks, file-based account records, transaction and report programs |
 
 ## Developer Tools
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[getman](https://github.com/fzn0x/getman)**<br>![stars](https://img.shields.io/badge/stars-28-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/getman/) | Getman - Open Source Postman Lightweight Alternative written in Rust. | `Rust` `Tokio` `Axum` `Ratatui` `crossterm` `reqwest` `rquickjs` `rust-embed` · `Svelte 5` `TypeScript` `Vite` `Vitest` |
+| **[getman](https://github.com/fzn0x/getman)**<br>![stars](https://img.shields.io/badge/stars-29-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/getman/) | Getman - The fast open-source Postman alternative written in Rust. Requests are YAML files in your repository, sent from a desktop app, a browser, a terminal or CI. | `Rust` `Tokio` `Axum` `Ratatui` `crossterm` `reqwest` `rquickjs` `rust-embed` · `Svelte 5` `TypeScript` `Vite` `Vitest` |
 | **[galley](https://github.com/fzn0x/galley)**<br>![stars](https://img.shields.io/badge/stars-6-f5c518?style=flat-square&logo=github)<br>[Live demo](https://fzn0x.github.io/galley/) | Markdown in, LaTeX that compiles. Converts Markdown to clean LaTeX with typesetter's defaults for ellipses, quotes, abbreviations and special characters, and shows every change it makes. A static, dependency-free browser tool. | `JavaScript` `HTML` `CSS` `node:test` `GitHub Pages` · zero dependencies |
 | **[clojure-map-formatter](https://github.com/fzn0x/clojure-map-formatter)**<br>[Live demo](https://fzn0x.github.io/clojure-map-formatter/) | Format and beautify Clojure maps and EDN with aligned indentation, or minify them for production. A static, dependency-free browser playground. | `JavaScript` `HTML` `CSS` `node:test` `GitHub Pages` · zero dependencies |
 
@@ -48,7 +49,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[mixmusic](https://github.com/fzn0x/mixmusic)**<br>![stars](https://img.shields.io/badge/stars-440-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/mixmusic/) | MixMusic is a native desktop player for YouTube Music and Spotify on macOS, Windows and Linux with Community Themes and Plugins. iOS and Android Coming Soon. | `Go` `MyGo` `TypeScript` `Preact` `Preact Signals` `Vite` `Bun` `yt-dlp` · system webview, no bundled browser · macOS, Windows, Linux |
+| **[mixmusic](https://github.com/fzn0x/mixmusic)**<br>![stars](https://img.shields.io/badge/stars-444-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/mixmusic/) | MixMusic is a native desktop player for YouTube Music and Spotify on macOS, Windows and Linux with Community Themes and Plugins. iOS and Android Coming Soon. | `Go` `MyGo` `TypeScript` `Preact` `Preact Signals` `Vite` `Bun` `yt-dlp` · system webview, no bundled browser · macOS, Windows, Linux |
 | **[jumpman](https://github.com/fzn0x/jumpman)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github)<br>[Live demo](https://fzn0x.github.io/jumpman/) | Edit multiple photos at once. Open-source, offline-first batch photo editor for web & Android: global edits, layers, LUTs, Lightroom XMP, auto-match, smart selection, presets. | `React` `TypeScript` `Vite` `Tailwind CSS` `WebGL2` `Zustand` `Capacitor (Android)` `PWA / Workbox` `Astro` `pnpm workspaces` `Biome` `Playwright` |
 | **[verisign](https://github.com/fzn0x/verisign)**<br>[Live demo](https://verisign.midoriresearch.com/) | Self-hosted PDF signing with QR verification and SHA-512 integrity checks, on Cloudflare Workers and D1 | `Go` (workers-go) on `Cloudflare Workers` + `D1` · `React` `React Router` `TanStack Query` `Zustand` `pdf-lib` `pdf.js` `Vite` `Wrangler` |
 | **[doksli](https://github.com/fzn0x/doksli)**<br>[Live demo](https://doksli-ten.vercel.app) | Paste a tweet link, keep it as an image. Real tweets only, rendered from X and exported as PNG. Vite + React + Biome. | `React 19` `TypeScript` `Vite` `Biome` `modern-screenshot` `Vercel` |
