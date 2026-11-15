@@ -2,6 +2,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&height=50&lines=Hi+I'm+fzn0x%2C+fullstack+developer+;and+agentic+%26+blockchain+systems+architect;founder+of+Midori+Research" width="100%" alt="Hi, I'm fzn0x" />
 <br><br>
 
+Creativity is about recombination, do you think SMARTPHONE is an idea or is it idea stacking?
+
+Check who created the first touch screen.
+
 <a href="https://www.midoriresearch.com/"><img src="https://img.shields.io/badge/midoriresearch.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://github.com/fzn0x?tab=followers"><img src="https://img.shields.io/badge/followers-726-0D1117?style=for-the-badge&logo=github" alt="Followers" /></a>
 <a href="https://github.com/fzn0x?tab=repositories"><img src="https://img.shields.io/badge/stars-1044-0D1117?style=for-the-badge&logo=github" alt="Stars" /></a>
