@@ -24,7 +24,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[watchtower](https://github.com/fzn0x/watchtower)**<br>![stars](https://img.shields.io/badge/stars-223-f5c518?style=flat-square&logo=github) | Watchtower - Beginner-friendly AI-powered penetration testing automation CLI with orchestrated agentic workflows. | `Python` `LangGraph` `LangChain` `LiteLLM` `ChromaDB` `Pydantic` `SQLAlchemy` `Docker` · Claude, OpenAI, Gemini, Ollama, OpenRouter · 23 tools incl. `nmap` `nuclei` `sqlmap` `ffuf` |
+| **[watchtower](https://github.com/fzn0x/watchtower)**<br>![stars](https://img.shields.io/badge/stars-224-f5c518?style=flat-square&logo=github) | Watchtower - Beginner-friendly AI-powered penetration testing automation CLI with orchestrated agentic workflows. | `Python` `LangGraph` `LangChain` `LiteLLM` `ChromaDB` `Pydantic` `SQLAlchemy` `Docker` · Claude, OpenAI, Gemini, Ollama, OpenRouter · 23 tools incl. `nmap` `nuclei` `sqlmap` `ffuf` |
 | **[yolali](https://github.com/fzn0x/yolali)**<br>[Docs](https://fzn0x.github.io/yolali) | A YOLO you can actually read: clean-room, NMS-free, fully typed PyTorch object detection (Apache-2.0) | `Python` `PyTorch` `torchvision` `OpenCV` `ONNX Runtime` `DINOv2 (timm)` `uv` `Ruff` `Pyright` `MkDocs Material` |
 | **[transformer](https://github.com/fzn0x/transformer)**<br>![stars](https://img.shields.io/badge/stars-3-f5c518?style=flat-square&logo=github) | Transformer architecture in Node.js, foundation to modern AI models. | `JavaScript` `Node.js` · built from scratch on typed arrays, no ML frameworks |
 

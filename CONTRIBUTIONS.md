@@ -70,7 +70,7 @@
 | Repository | Stars | What I shipped | PRs | Year |
 | :--- | :---: | :--- | :---: | :---: |
 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 196.7k | Indonesian translation improvements | 1 | 2022 |
-| [denoland/deno](https://github.com/denoland/deno/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 109k | Reworked the built-in utilities section of the README | 1 | 2021 |
+| [denoland/deno](https://github.com/denoland/deno/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 109.1k | Reworked the built-in utilities section of the README | 1 | 2021 |
 | [oven-sh/bun](https://github.com/oven-sh/bun/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 96.7k | `bun:sqlite` docs fix for `.run()` | 1 | 2024 |
 | [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 65.3k | `id-ID` translation fixes | 1 | 2020 |
 | [jestjs/jest](https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 45.5k | Docs: using Jest with Vite | 1 | 2022 |
@@ -97,7 +97,7 @@
 | [matter-labs/zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 958 | Added the missing MetaMask add-network step | 1 | 2023 |
 | [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 947 | Docs typo fix | 1 | 2022 |
 | [denoland/dotland](https://github.com/denoland/dotland/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 945 | Published Denovel, my Laravel-inspired Deno framework, to `deno.land/x` | 1 | 2020 |
-| [okhosting/awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 801 | Listed Watchtower | 1 | 2026 |
+| [okhosting/awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 802 | Listed Watchtower | 1 | 2026 |
 | [kawalcovid19/wargabantuwarga.com](https://github.com/kawalcovid19/wargabantuwarga.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 557 | COVID-19 civic info site: open-map button, province search, kebab-case fix, setup docs | 4 | 2021 |
 | [reactjs/id.react.dev](https://github.com/reactjs/id.react.dev/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 328 | Indonesian translation fixes for the official React docs | 1 | 2023 |
 
