@@ -28,7 +28,7 @@
 <img src="https://github.com/sequelize.png?size=40" width="20" /> **[Sequelize](https://github.com/sequelize/sequelize/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged)**<br>
 <sub>Feature-rich ORM for Node.js & TypeScript</sub>
 
-<img src="https://img.shields.io/badge/stars-30.3k-52B0E7?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/stars-30.4k-52B0E7?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/merged_PRs-55-52B0E7?style=flat-square" />
 <img src="https://img.shields.io/badge/2021%E2%80%932023-555?style=flat-square" />
 
@@ -69,8 +69,8 @@
 
 | Repository | Stars | What I shipped | PRs | Year |
 | :--- | :---: | :--- | :---: | :---: |
-| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 196.7k | Indonesian translation improvements | 1 | 2022 |
-| [denoland/deno](https://github.com/denoland/deno/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 109k | Reworked the built-in utilities section of the README | 1 | 2021 |
+| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 196.8k | Indonesian translation improvements | 1 | 2022 |
+| [denoland/deno](https://github.com/denoland/deno/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 109.1k | Reworked the built-in utilities section of the README | 1 | 2021 |
 | [oven-sh/bun](https://github.com/oven-sh/bun/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 96.8k | `bun:sqlite` docs fix for `.run()` | 1 | 2024 |
 | [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 65.3k | `id-ID` translation fixes | 1 | 2020 |
 | [jestjs/jest](https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 45.5k | Docs: using Jest with Vite | 1 | 2022 |
@@ -84,7 +84,7 @@
 | [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 6.5k | README typo and path fixes | 1 | 2025 |
 | [nuxt/awesome](https://github.com/nuxt/awesome/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 5.6k | Listed the `nuxt-web3` community module | 1 | 2021 |
 | [stisla/stisla](https://github.com/stisla/stisla/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 3.8k | Project cleanup | 1 | 2022 |
-| [cacjs/cac](https://github.com/cacjs/cac/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 3.2k | Fixed the SAO docs URL | 1 | 2021 |
+| [cacjs/cac](https://github.com/cacjs/cac/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 3.1k | Fixed the SAO docs URL | 1 | 2021 |
 | [zuramai/mazer](https://github.com/zuramai/mazer/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 3.1k | File Uploader component, sidebar submenu fix, dark-mode flicker fix, mobile overflow fix, EN + ID docs | 11 | 2021–2022 |
 | [sergiodxa/remix-auth](https://github.com/sergiodxa/remix-auth/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 2.2k | JSDoc moved to `LoaderFunctionArgs` / `ActionFunctionArgs` | 2 | 2024 |
 | [eveningkid/denodb](https://github.com/eveningkid/denodb/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.9k | Replaced a deprecated `deno.land/x/color` import | 1 | 2020 |
@@ -95,11 +95,11 @@
 | [nuxt/modules](https://github.com/nuxt/modules/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.1k | Added and maintained the `nuxt-web3` module entry | 2 | 2021–2022 |
 | [RioChndr/jaksel-language](https://github.com/RioChndr/jaksel-language/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 961 | New keywords: `worth it` (true) and `seriously` (const) | 2 | 2022 |
 | [matter-labs/zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 958 | Added the missing MetaMask add-network step | 1 | 2023 |
-| [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 947 | Docs typo fix | 1 | 2022 |
+| [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 946 | Docs typo fix | 1 | 2022 |
 | [denoland/dotland](https://github.com/denoland/dotland/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 945 | Published Denovel, my Laravel-inspired Deno framework, to `deno.land/x` | 1 | 2020 |
 | [okhosting/awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 802 | Listed Watchtower | 1 | 2026 |
 | [kawalcovid19/wargabantuwarga.com](https://github.com/kawalcovid19/wargabantuwarga.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 557 | COVID-19 civic info site: open-map button, province search, kebab-case fix, setup docs | 4 | 2021 |
-| [reactjs/id.react.dev](https://github.com/reactjs/id.react.dev/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 328 | Indonesian translation fixes for the official React docs | 1 | 2023 |
+| [reactjs/id.react.dev](https://github.com/reactjs/id.react.dev/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 327 | Indonesian translation fixes for the official React docs | 1 | 2023 |
 
 <sub>Star counts as of November 2026.</sub>
 
