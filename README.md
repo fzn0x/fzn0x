@@ -7,8 +7,8 @@ Creativity is about recombination, do you think SMARTPHONE is an idea or is it i
 Check who created the first touch screen.
 
 <a href="https://www.midoriresearch.com/"><img src="https://img.shields.io/badge/midoriresearch.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://github.com/fzn0x?tab=followers"><img src="https://img.shields.io/badge/followers-729-0D1117?style=for-the-badge&logo=github" alt="Followers" /></a>
-<a href="https://github.com/fzn0x?tab=repositories"><img src="https://img.shields.io/badge/stars-1136-0D1117?style=for-the-badge&logo=github" alt="Stars" /></a>
+<a href="https://github.com/fzn0x?tab=followers"><img src="https://img.shields.io/badge/followers-731-0D1117?style=for-the-badge&logo=github" alt="Followers" /></a>
+<a href="https://github.com/fzn0x?tab=repositories"><img src="https://img.shields.io/badge/stars-1137-0D1117?style=for-the-badge&logo=github" alt="Stars" /></a>
 <a href="https://github.com/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged+-user%3Afzn0x"><img src="https://img.shields.io/badge/merged_PRs-184-0D1117?style=for-the-badge&logo=git&logoColor=white" alt="Merged PRs" /></a>
 <img src="https://hits.sh/github.com/fzn0x.svg?style=for-the-badge&label=profile%20views&color=0d1117" alt="Profile views" />
 </div>
