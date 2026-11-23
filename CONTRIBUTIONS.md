@@ -84,7 +84,7 @@
 | [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 6.5k | README typo and path fixes | 1 | 2025 |
 | [nuxt/awesome](https://github.com/nuxt/awesome/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 5.6k | Listed the `nuxt-web3` community module | 1 | 2021 |
 | [stisla/stisla](https://github.com/stisla/stisla/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 3.8k | Project cleanup | 1 | 2022 |
-| [cacjs/cac](https://github.com/cacjs/cac/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 3.2k | Fixed the SAO docs URL | 1 | 2021 |
+| [cacjs/cac](https://github.com/cacjs/cac/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 3.1k | Fixed the SAO docs URL | 1 | 2021 |
 | [zuramai/mazer](https://github.com/zuramai/mazer/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 3.1k | File Uploader component, sidebar submenu fix, dark-mode flicker fix, mobile overflow fix, EN + ID docs | 11 | 2021–2022 |
 | [sergiodxa/remix-auth](https://github.com/sergiodxa/remix-auth/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 2.2k | JSDoc moved to `LoaderFunctionArgs` / `ActionFunctionArgs` | 2 | 2024 |
 | [eveningkid/denodb](https://github.com/eveningkid/denodb/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.9k | Replaced a deprecated `deno.land/x/color` import | 1 | 2020 |
