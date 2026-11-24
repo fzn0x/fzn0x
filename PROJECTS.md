@@ -9,6 +9,8 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
+| **[FastEmu](https://github.com/fzn0x/FastEmu)**<br>![stars](https://img.shields.io/badge/stars-4-f5c518?style=flat-square&logo=github)<br>[Website](https://fastemu.functionx.dev) | Modern and faster version of MicroEmu and J2ME Loader with multi instances support, available in Windows, Linux, MacOS and Android built in Zed GPUI. (Still unreleased 👀) | `Rust` `Java` `CSS` `Kotlin` `JavaScript` |
+| **[clicky](https://github.com/fzn0x/clicky)**<br>![stars](https://img.shields.io/badge/stars-2-f5c518?style=flat-square&logo=github) | Clicky is auto-clicker desktop app with multi-locations recorder. | `Python` |
 | **[scoop-bucket](https://github.com/fzn0x/scoop-bucket)** | Scoop bucket for fzn0x apps |  |
 | **[worldoptimization](https://github.com/fzn0x/worldoptimization)**<br>![stars](https://img.shields.io/badge/stars-1-f5c518?style=flat-square&logo=github) | Offline backup of worldoptimization Caroline Ellison - Fake Charity Nerd Girl blog. | `HTML` `Python` `JavaScript` |
 | **[homebrew-tap](https://github.com/fzn0x/homebrew-tap)** | For publishing to homebrew cask | `Ruby` |
@@ -32,7 +34,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-236-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | IDX - Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
+| **[idx](https://github.com/fzn0x/idx)**<br>![stars](https://img.shields.io/badge/stars-257-f5c518?style=flat-square&logo=github)<br>[Live demo](https://ihsg.midoriresearch.com) | IDX - Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP server. IHSG Prices, Fundamentals, and Screening. Free and No API keys required. | `Rust` `Tokio` `Axum` `rmcp (MCP)` `clap` `rusqlite` `reqwest` · web terminal on `Cloudflare Workers` + `D1` · `npm` launcher |
 | **[core-banking-system](https://github.com/fzn0x/core-banking-system)**<br>![stars](https://img.shields.io/badge/stars-18-f5c518?style=flat-square&logo=github) | This is a demonstration of a simplified Core Banking System implemented in COBOL. | `COBOL` `GnuCOBOL` · copybooks, file-based account records, transaction and report programs |
 
 ## Developer Tools
@@ -47,7 +49,7 @@ All public and open source. Descriptions are straight from each repo.
 
 | Project | Description | Built with |
 | :--- | :--- | :--- |
-| **[mixmusic](https://github.com/fzn0x/mixmusic)**<br>![stars](https://img.shields.io/badge/stars-476-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/mixmusic/) | MixMusic is a native music player for YouTube Music and Spotify on macOS, Windows and Linux with 363+ Built-in and App Features, Community Themes and Plugins. iOS and Android Coming in v0.5.13. | `Go` `MyGo` `TypeScript` `Preact` `Preact Signals` `Vite` `Bun` `yt-dlp` · system webview, no bundled browser · macOS, Windows, Linux |
+| **[mixmusic](https://github.com/fzn0x/mixmusic)**<br>![stars](https://img.shields.io/badge/stars-483-f5c518?style=flat-square&logo=github)<br>[Website](https://fzn0x.github.io/mixmusic/) | MixMusic is a native music player for YouTube Music and Spotify on macOS, Windows and Linux with 363+ Built-in and App Features, Community Themes and Plugins. iOS and Android Coming in v0.5.13. | `Go` `MyGo` `TypeScript` `Preact` `Preact Signals` `Vite` `Bun` `yt-dlp` · system webview, no bundled browser · macOS, Windows, Linux |
 | **[jumpman](https://github.com/fzn0x/jumpman)**<br>![stars](https://img.shields.io/badge/stars-3-f5c518?style=flat-square&logo=github)<br>[Live demo](https://fzn0x.github.io/jumpman/) | Edit multiple photos at once. Open-source, offline-first batch photo editor for web & Android: global edits, layers, LUTs, Lightroom XMP, auto-match, smart selection, presets. | `React` `TypeScript` `Vite` `Tailwind CSS` `WebGL2` `Zustand` `Capacitor (Android)` `PWA / Workbox` `Astro` `pnpm workspaces` `Biome` `Playwright` |
 | **[verisign](https://github.com/fzn0x/verisign)**<br>[Live demo](https://verisign.midoriresearch.com/) | Self-hosted PDF signing with QR verification and SHA-512 integrity checks, on Cloudflare Workers and D1 | `Go` (workers-go) on `Cloudflare Workers` + `D1` · `React` `React Router` `TanStack Query` `Zustand` `pdf-lib` `pdf.js` `Vite` `Wrangler` |
 | **[doksli](https://github.com/fzn0x/doksli)**<br>[Live demo](https://doksli-ten.vercel.app) | Paste a tweet link, keep it as an image. Real tweets only, rendered from X and exported as PNG. Vite + React + Biome. | `React 19` `TypeScript` `Vite` `Biome` `modern-screenshot` `Vercel` |
