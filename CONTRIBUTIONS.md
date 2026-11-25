@@ -77,7 +77,7 @@
 | [gofiber/fiber](https://github.com/gofiber/fiber/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 40.3k | Indonesian README tweaks and translation fixes | 2 | 2022 |
 | [remy/nodemon](https://github.com/remy/nodemon/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 26.7k | Installation docs improvements | 1 | 2021 |
 | [web3/web3.js](https://github.com/web3/web3.js/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 19.9k | Synced the web3.php link in the other-languages docs | 1 | 2022 |
-| [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 18.8k | Guide fixes | 1 | 2021 |
+| [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 18.9k | Guide fixes | 1 | 2021 |
 | [npm/cli](https://github.com/npm/cli/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 10.3k | Clearer environment guidance in the bug-report template | 1 | 2022 |
 | [ai/easings.net](https://github.com/ai/easings.net/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 8.7k | Indonesian translation fixes | 1 | 2021 |
 | [markdoc/markdoc](https://github.com/markdoc/markdoc/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 8.5k | Link `title` attribute in the parser, better error messages, strict-equality refactor | 3 | 2022 |
