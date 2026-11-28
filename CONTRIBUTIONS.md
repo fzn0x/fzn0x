@@ -70,7 +70,7 @@
 | Repository | Stars | What I shipped | PRs | Year |
 | :--- | :---: | :--- | :---: | :---: |
 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 196.8k | Indonesian translation improvements | 1 | 2022 |
-| [denoland/deno](https://github.com/denoland/deno/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 108.9k | Reworked the built-in utilities section of the README | 1 | 2021 |
+| [denoland/deno](https://github.com/denoland/deno/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 109k | Reworked the built-in utilities section of the README | 1 | 2021 |
 | [oven-sh/bun](https://github.com/oven-sh/bun/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 97k | `bun:sqlite` docs fix for `.run()` | 1 | 2024 |
 | [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 65.3k | `id-ID` translation fixes | 1 | 2020 |
 | [jestjs/jest](https://github.com/jestjs/jest/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 45.5k | Docs: using Jest with Vite | 1 | 2022 |
@@ -94,7 +94,7 @@
 | [prisma/web](https://github.com/prisma/web/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.1k | Docs: Sequelize comparison for cursor pagination | 1 | 2022 |
 | [nuxt/modules](https://github.com/nuxt/modules/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 1.1k | Added and maintained the `nuxt-web3` module entry | 2 | 2021–2022 |
 | [RioChndr/jaksel-language](https://github.com/RioChndr/jaksel-language/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 960 | New keywords: `worth it` (true) and `seriously` (const) | 2 | 2022 |
-| [matter-labs/zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 958 | Added the missing MetaMask add-network step | 1 | 2023 |
+| [matter-labs/zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 957 | Added the missing MetaMask add-network step | 1 | 2023 |
 | [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 946 | Docs typo fix | 1 | 2022 |
 | [denoland/dotland](https://github.com/denoland/dotland/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 944 | Published Denovel, my Laravel-inspired Deno framework, to `deno.land/x` | 1 | 2020 |
 | [okhosting/awesome-cyber-security](https://github.com/okhosting/awesome-cyber-security/pulls?q=is%3Apr+author%3Afzn0x+is%3Amerged) | 807 | Listed Watchtower | 1 | 2026 |
